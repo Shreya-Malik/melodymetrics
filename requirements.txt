@@ -1,0 +1,18 @@
+# Core libraries
+pandas
+requests
+beautifulsoup4
+python-dotenv
+
+# Spotify API wrapper
+spotipy
+
+# YouTube Search
+youtubesearchpython
+
+# Database connection
+psycopg2-binary
+SQLAlchemy
+
+# Jupyter environment (for notebooks)
+jupyterlab
