@@ -1,14 +1,19 @@
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import time
+from dotenv import load_dotenv
+import os
 
+# Load environment variables
+load_dotenv()
 
-# 🧠 Set your credentials
-CLIENT_ID = 'bb50ce3a40264186b606249c4caac421'
-CLIENT_SECRET = '3f342271aca34ebf94b39a59856362b9'
-REDIRECT_URI = 'http://127.0.0.1:8888/callback'
+# Set credentials dynamically
+CLIENT_ID = os.getenv('SPOTIFY_CLIENT_ID')
+CLIENT_SECRET = os.getenv('SPOTIFY_CLIENT_SECRET')
+REDIRECT_URI = os.getenv('SPOTIFY_REDIRECT_URI', 'http://127.0.0.1:8888/callback')
+SLEEP_INTERVAL = float(os.getenv('SLEEP_INTERVAL', 0.3))
 
-# 🎫 Set up Spotify OAuth
+# Set up Spotify OAuth
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
     client_id=CLIENT_ID,
     client_secret=CLIENT_SECRET,
@@ -44,16 +49,15 @@ def fetch_song_metadata(songs):
                 "artist_popularity": artist_info['popularity']
             }
 
-            print(f"✅ Fetched: {track['name']} by {track['artists'][0]['name']}")
+            print(f"Fetched: {track['name']} by {track['artists'][0]['name']}")
             results.append(song_data)
         else:
-            print(f"❌ Not found: {title} by {artist}")
+            print(f"Not found: {title} by {artist}")
 
-        time.sleep(0.3)  # avoid rate limits
+        time.sleep(SLEEP_INTERVAL)
 
     return results
 
-# 🧪 Test it with sample songs
 if __name__ == "__main__":
     sample_songs = [
         ("Shape of You", "Ed Sheeran"),
@@ -63,6 +67,6 @@ if __name__ == "__main__":
 
     metadata = fetch_song_metadata(sample_songs)
     for song in metadata:
-        print("\n🎶 Enriched Song Data:")
+        print("\nEnriched Song Data:")
         for key, value in song.items():
             print(f"{key}: {value}")

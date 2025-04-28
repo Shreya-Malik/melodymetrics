@@ -1,8 +1,15 @@
 import requests
 import json
 import pandas as pd
+from dotenv import load_dotenv
+import os
 
-API_KEY = 'AIzaSyCy2jNp-Jyk9SMsFGEQHEBvbZ-kKTCgi0k'
+# Load environment variables
+load_dotenv()
+
+# Read configs from .env
+YOUTUBE_API_KEY = os.getenv('YOUTUBE_API_KEY')
+BILLBOARD_CSV_PATH = os.getenv('BILLBOARD_CSV_PATH', './data/billboard_hot_100.csv')
 
 def search_youtube_video(query):
     url = "https://www.googleapis.com/youtube/v3/search"
@@ -11,7 +18,7 @@ def search_youtube_video(query):
         "q": query,
         "type": "video",
         "maxResults": 1,
-        "key": API_KEY
+        "key": YOUTUBE_API_KEY
     }
 
     response = requests.get(url, params=params)
@@ -29,7 +36,7 @@ def fetch_comments(video_id, max_comments=20):
         "videoId": video_id,
         "maxResults": max_comments,
         "textFormat": "plainText",
-        "key": API_KEY
+        "key": YOUTUBE_API_KEY
     }
 
     response = requests.get(url, params=params)
@@ -42,22 +49,25 @@ def fetch_comments(video_id, max_comments=20):
     return comments
 
 if __name__ == "__main__":
+    # Example song title to search
     song_title = "Shape of You Ed Sheeran"
 
-    print(f"🔎 Searching YouTube for: {song_title}")
+    print(f"Searching YouTube for: {song_title}")
     video_id = search_youtube_video(song_title)
 
     if video_id:
-        print(f"✅ Found video ID: {video_id}")
+        print(f"Found video ID: {video_id}")
         comments = fetch_comments(video_id)
 
-        print(f"\n💬 Top Comments:")
-        for comment in comments:
-            print(f"- {comment}")
+        if comments:
+            # Make sure data folder exists
+            os.makedirs(os.path.dirname(BILLBOARD_CSV_PATH), exist_ok=True)
 
-        # Save comments
-        df = pd.DataFrame(comments, columns=["Comment"])
-        df.to_csv("../data/youtube_comments_sample.csv", index=False)
-        print("\n✅ Saved comments to 'data/youtube_comments_sample.csv'")
+            # Save comments to CSV
+            df = pd.DataFrame(comments, columns=["Comment"])
+            df.to_csv("./data/youtube_comments_sample.csv", index=False)
+            print("Saved comments to './data/youtube_comments_sample.csv'")
+        else:
+            print("No comments found.")
     else:
-        print("❌ No video found.")
+        print("No video found.")
