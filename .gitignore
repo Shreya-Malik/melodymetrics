@@ -1,0 +1,20 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter hidden files
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore Docker containers' local volumes
+volumes/
+
+# Ignore authentication caches
+*.cache
+*.spotipyoauthcache
+
+# Ignore OS system files
+.DS_Store
