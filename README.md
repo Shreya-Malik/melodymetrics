@@ -1,4 +1,4 @@
-# MelodyMetrics 🎶
+# MelodyMetrics 
 
 A Data Management project that explores music industry trends by integrating data from:
 - Spotify API (track + artist metadata)
