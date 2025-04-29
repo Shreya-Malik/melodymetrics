@@ -7,26 +7,33 @@ import os
 # Load environment variables
 load_dotenv()
 
-# Read config from .env
-BILLBOARD_URL = os.getenv('BILLBOARD_URL', 'https://www.billboard.com/charts/hot-100/')
+# Billboard URLs
+BILLBOARD_URLS = {
+    "Hot 100": "https://www.billboard.com/charts/hot-100/",
+    "Global 200": "https://www.billboard.com/charts/billboard-global-200/",
+    "Artist 100": "https://www.billboard.com/charts/artist-100/"
+}
+
+# Output path
 BILLBOARD_CSV_PATH = os.getenv('BILLBOARD_CSV_PATH', './data/billboard_hot_100.csv')
 
-def scrape_billboard_hot_100():
+def scrape_billboard_chart(chart_name, url):
+    """Fetch song or artist data from a specific Billboard chart."""
+    print(f"Scraping {chart_name}...")
+
     headers = {
         "User-Agent": "Mozilla/5.0"
     }
-
-    response = requests.get(BILLBOARD_URL, headers=headers)
+    response = requests.get(url, headers=headers)
 
     if response.status_code != 200:
-        print(f"Failed to fetch Billboard data. Status code: {response.status_code}")
+        print(f"Failed to fetch {chart_name} ({response.status_code})")
         return []
 
     soup = BeautifulSoup(response.text, 'html.parser')
-    
-    songs = []
-    
     entries = soup.find_all('li', class_='o-chart-results-list__item')
+
+    songs = []
 
     for entry in entries:
         title_tag = entry.find("h3", id="title-of-a-story")
@@ -36,24 +43,28 @@ def scrape_billboard_hot_100():
             title = title_tag.text.strip()
             artist = artist_tag.text.strip()
 
+            # Skip blank entries or labels like "NEW"
             if title and artist and artist.lower() != 'new':
                 songs.append((title, artist))
 
+    print(f"Found {len(songs)} records from {chart_name}.")
     return songs
 
 if __name__ == "__main__":
-    hot_100 = scrape_billboard_hot_100()
+    all_songs = []
 
-    if hot_100:
-        print("\nTop 10 Billboard Hot 100 Songs:")
-        for i, (title, artist) in enumerate(hot_100[:10], start=1):
-            print(f"{i}. {title} — {artist}")
+    for chart_name, url in BILLBOARD_URLS.items():
+        songs = scrape_billboard_chart(chart_name, url)
+        all_songs.extend(songs)
 
-        # Save to CSV
-        df = pd.DataFrame(hot_100, columns=["Song", "Artist"])
+    if all_songs:
+        df = pd.DataFrame(all_songs, columns=["Song", "Artist"])
         df.index += 1
-        df.to_csv(BILLBOARD_CSV_PATH, index_label="Rank")
 
-        print(f"\nSaved {len(hot_100)} songs to '{BILLBOARD_CSV_PATH}'")
+        # Ensure output directory exists
+        os.makedirs("./data", exist_ok=True)
+
+        df.to_csv(BILLBOARD_CSV_PATH, index_label="Rank")
+        print(f"\nSaved {len(df)} total songs to '{BILLBOARD_CSV_PATH}'.")
     else:
-        print("No songs scraped.")
+        print("No songs found across Billboard charts.")

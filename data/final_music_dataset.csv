@@ -1,101 +1,846 @@
-billboard_song,billboard_artist,spotify_title,spotify_artist,release_date,album_name,track_popularity
-Luther,Kendrick Lamar & SZA,luther (with sza),Kendrick Lamar,2024-11-21,GNX,94
-Die With A Smile,Lady Gaga & Bruno Mars,Die With A Smile,Lady Gaga,2024-08-16,Die With A Smile,99
-Nokia,Drake,NOKIA,Drake,2025-02-14,$ome $exy $ongs 4 U,94
-Pink Pony Club,Chappell Roan,Pink Pony Club,Chappell Roan,2023-09-22,The Rise and Fall of a Midwest Princess,89
-Ordinary,Alex Warren,Ordinary,Alex Warren,2025-02-07,Ordinary,96
-A Bar Song (Tipsy),Shaboozey,A Bar Song (Tipsy),Shaboozey,2024-04-12,A Bar Song (Tipsy),88
-Lose Control,Teddy Swims,Lose Control,Teddy Swims,2023-06-23,Lose Control,85
-All The Way,BigXthaPlug Featuring Bailey Zimmerman,Who Told You You Could Eat My Cookies? (from Jingle All the Way),Austrian Death Machine,2009-09-29,Double Brutal,20
-Beautiful Things,Benson Boone,Beautiful Things,Benson Boone,2024-01-18,Beautiful Things,89
-I'm The Problem,Morgan Wallen,I'm The Problem,Morgan Wallen,2025-01-31,I'm The Problem,89
-Just In Case,Morgan Wallen,Just In Case,Morgan Wallen,2025-03-21,Just In Case,89
-Birds Of A Feather,Billie Eilish,BIRDS OF A FEATHER,Billie Eilish,2024-05-17,HIT ME HARD AND SOFT,100
-APT.,ROSE & Bruno Mars,APT.,ROSÉ,2024-10-18,APT.,96
-Anxiety,Doechii,Anxiety,Doechii,2025-03-05,Anxiety,94
-Espresso,Sabrina Carpenter,Espresso,Sabrina Carpenter,2024-04-12,Espresso,90
-Mutt,Leon Thomas,MUTT (feat. Chris Brown) [CB REMIX],Leon Thomas,2025-03-21,MUTT (CB REMIX),84
-I Had Some Help,Post Malone Featuring Morgan Wallen,convos with my racks,uno2slumped,2024-12-20,zzz,2
-That's So True,Gracie Abrams,That’s So True,Gracie Abrams,2024-10-18,The Secret of Us (Deluxe),97
-Not Like Us,Kendrick Lamar,Not Like Us,Kendrick Lamar,2024-05-04,Not Like Us,96
-Love Somebody,Morgan Wallen,Love Somebody,Morgan Wallen,2024-10-18,Love Somebody,89
-TV Off,Kendrick Lamar Featuring Lefty Gunplay,Super Bowl LIX Halftime Show - Live,Kendrick Lamar,2025-02-09,Super Bowl LIX Halftime Show (Live),71
-Messy,Lola Young,Messy,Lola Young,2024-05-30,Messy,92
-Sports Car,Tate McRae,Sports car,Tate McRae,2025-02-20,So Close To What,89
-Squabble Up,Kendrick Lamar,squabble up,Kendrick Lamar,2024-11-22,GNX,90
-30 For 30,SZA With Kendrick Lamar,30 For 30 (with Kendrick Lamar),SZA,2024-12-20,SOS Deluxe: LANA,88
-Abracadabra,Lady Gaga,Abracadabra,Lady Gaga,2025-02-03,Abracadabra,92
-Timeless,The Weeknd & Playboi Carti,Timeless (feat Playboi Carti),The Weeknd,2025-01-31,Hurry Up Tomorrow,95
-Taste,Sabrina Carpenter,Taste,Sabrina Carpenter,2024-08-23,Short n' Sweet,92
-I Never Lie,Zach Top,I Never Lie,Zach Top,2024-04-05,Cold Beer & Country Music,85
-No One Noticed,The Marias,No One Noticed,The Marías,2024-05-31,Submarine,93
-Stargazing,Myles Smith,Stargazing,Myles Smith,2024-05-10,Stargazing,89
-Bad Dreams,Teddy Swims,Bad Dreams,Teddy Swims,2024-09-13,Bad Dreams,86
-Fortnight,Taylor Swift Featuring Post Malone,Parabolic! (unplugged),nobigdyl.,2024-11-19,unplugged vol.1,20
-Good News,Shaboozey,Good News,Shaboozey,2024-11-15,Good News,84
-Sailor Song,Gigi Perez,Sailor Song,Gigi Perez,2024-07-26,Sailor Song,97
-Sorry I'm Here For Someone Else,Benson Boone,Sorry I'm Here For Someone Else,Benson Boone,2025-02-27,Sorry I'm Here For Someone Else,91
-I'm A Little Crazy,Morgan Wallen,I'm A Little Crazy,Morgan Wallen,2025-03-21,I'm A Little Crazy,85
-Worst Way,Riley Green,Worst Way,Riley Green,2024-04-12,Way Out Here,84
-Azizam,Ed Sheeran,Azizam,Ed Sheeran,2025-04-04,Azizam,89
-Indigo,Sam Barber Featuring Avery Anna,Indigo (feat. Avery Anna),Sam Barber,2024-11-01,Restless Mind,88
-Dark Thoughts,Lil Tecca,Dark Thoughts,Lil Tecca,2025-03-14,Dark Thoughts,93
-Denial Is A River,Doechii,DENIAL IS A RIVER,Doechii,2024-08-30,Alligator Bites Never Heal,91
-Cry For Me,The Weeknd,Cry For Me,The Weeknd,2025-01-31,Hurry Up Tomorrow,89
-Wildflower,Billie Eilish,WILDFLOWER,Billie Eilish,2024-05-17,HIT ME HARD AND SOFT,96
-DTMF,Bad Bunny,DtMF,Bad Bunny,2025-01-05,DeBÍ TiRAR MáS FOToS,98
-Residuals,Chris Brown,Residuals,Chris Brown,2024-04-11,11:11 (Deluxe),77
-Twilight Zone,Ariana Grande,twilight zone,Ariana Grande,2025-03-28,eternal sunshine deluxe: brighter days ahead,87
-Me Jalo,Fuerza Regida & Grupo Frontera,ME JALO,Fuerza Regida,2024-12-19,MALA MÍA,92
-Rather Lie,Playboi Carti & The Weeknd,RATHER LIE (with The Weeknd),Playboi Carti,2025-03-14,MUSIC,91
-Am I Okay?,Megan Moroney,Am I Okay?,Megan Moroney,2024-07-12,Am I Okay?,81
-The Giver,Chappell Roan,The Giver,Chappell Roan,2025-03-13,The Giver,89
-Weren't For The Wind,Ella Langley,weren't for the wind,Ella Langley,2024-11-01,still hungover,79
-Baile Inolvidable,Bad Bunny,BAILE INoLVIDABLE,Bad Bunny,2025-01-05,DeBÍ TiRAR MáS FOToS,96
-Somebody Loves Me,PARTYNEXTDOOR & Drake,SOMEBODY LOVES ME,PARTYNEXTDOOR,2025-02-14,$ome $exy $ongs 4 U,82
-BMF,SZA,BMF,SZA,2024-12-20,SOS Deluxe: LANA,89
-Back To Friends,sombr,back to friends,sombr,2024-12-27,back to friends,93
-Friends Like That,John Morgan Featuring Jason Aldean,I Won't Back Down (Live from Saturday Night Live),Jason Aldean,2017-10-20,I Won't Back Down (Live From Saturday Night Live),40
-Te Queria Ver,Aleman X Neton Vega,Peter Pen,X-Tense,2022-02-14,Imff,30
-Smile,Morgan Wallen,Smile,Morgan Wallen,2024-12-31,Smile,83
-Ojos Tristes,"Selena Gomez, benny blanco & The Marias",Ojos Tristes (with The Marías),Selena Gomez,2025-03-21,I Said I Love You First,85
-Revolving Door,Tate McRae,Revolving door,Tate McRae,2025-02-21,So Close To What,91
-Loco,Neton Vega,Loco,Neton Vega,2024-12-20,Loco,87
-Hard Fought Hallelujah,Brandon Lake,Hard Fought Hallelujah,Brandon Lake,2024-11-08,Hard Fought Hallelujah,67
-Peekaboo,Kendrick Lamar Featuring AzChike,Super Bowl LIX Halftime Show - Live,Kendrick Lamar,2025-02-09,Super Bowl LIX Halftime Show (Live),71
-Somethin' 'Bout A Woman,Thomas Rhett Featuring Teddy Swims,I'll Show Me,Guy Clark,2013-07-23,My Favorite Picture Of You,15
-Busy Woman,Sabrina Carpenter,Busy Woman,Sabrina Carpenter,2025-02-14,Short n' Sweet (Deluxe),92
-Holy Smokes,Bailey Zimmerman,Holy Smokes,Bailey Zimmerman,2024-02-23,Holy Smokes,78
-Caramel,Sleep Token,Caramel,Sleep Token,2025-04-04,Caramel,87
-End Of The World,Miley Cyrus,End of the World,Miley Cyrus,2025-04-04,End of the World,87
-Love Me Not,Ravyn Lenae,Love Me Not,Ravyn Lenae,2024-05-03,Love Me Not / Love Is Blind,85
-Gimme A Hug,Drake,GIMME A HUG,Drake,2025-02-14,$ome $exy $ongs 4 U,82
-Fix What You Didn't Break,Nate Smith,Fix What You Didn't Break,Nate Smith,2024-08-23,Fix What You Didn't Break,74
-Call Me When You Break Up,"Selena Gomez, benny blanco & Gracie Abrams",Call Me When You Break Up (with Gracie Abrams),Selena Gomez,2025-02-20,Call Me When You Break Up (with Gracie Abrams),81
-Texas,Blake Shelton,Texas,Blake Shelton,2024-11-15,Texas,73
-Die Trying,"PARTYNEXTDOOR, Drake & Yebba",DIE TRYING,PARTYNEXTDOOR,2025-02-14,$ome $exy $ongs 4 U,88
-No Pole,Don Toliver,No Pole,Don Toliver,2023-02-28,Love Sick (Deluxe),90
-Chest Pain (I Love),Malcolm Todd,Chest Pain (I Love),Malcolm Todd,2024-12-04,Chest Pain (I Love),87
-Are You Even Real,Teddy Swims & GIVEON,Are You Even Real (feat. Givēon),Teddy Swims,2025-01-24,I've Tried Everything But Therapy (Part 2),80
-EOO,Bad Bunny,EoO,Bad Bunny,2025-01-05,DeBÍ TiRAR MáS FOToS,94
-Like Him,"Tyler, The Creator Featuring Lola Young",Rap Up 2018,Uncle Murda,2018-12-31,Rap Up 2018,19
-Blue Strips,Jessie Murph,Blue Strips,Jessie Murph,2025-04-11,Blue Strips,81
-The Largest,BigXthaPlug,The Largest,BigXthaPlug,2024-08-09,The Largest,69
-Morena,Neton Vega & Peso Pluma,Morena,Neton Vega,2025-02-14,Mi Vida Mi Muerte,92
-Undressed,sombr,undressed,sombr,2025-03-21,undressed,90
-Feel It,d4vd,Feel It (From “Invincible”),d4vd,2024-03-28,Feel It (From “Invincible”),92
-Backseat Driver,Kane Brown,Backseat Driver,Kane Brown,2024-10-11,Backseat Driver,70
-Evil J0rdan,Playboi Carti,EVIL J0RDAN,Playboi Carti,2025-03-14,MUSIC,91
-Que Pasaria...,Rauw Alejandro & Bad Bunny,Qué Pasaría...,Rauw Alejandro,2024-11-15,Cosa Nuestra,91
-Nuevayol,Bad Bunny,NUEVAYoL,Bad Bunny,2025-01-05,DeBÍ TiRAR MáS FOToS,94
-"Henry, Come On",Lana Del Rey,"Henry, come on",Lana Del Rey,2025-04-11,"Henry, come on",84
-Haunted,Kane Brown With Jelly Roll,That's Me,Joelpatrick,2019-08-05,That's Me,34
-Tattoo,Tito Double P,TATTOO,Tito Double P,2025-02-27,TATTOO,91
-Headlock,Imogen Heap,Headlock,Imogen Heap,2005,Speak for Yourself (Deluxe Version),90
-Hands Of Time,Eric Church,Hands Of Time,Eric Church,2025-03-20,Hands Of Time,63
-Por Esos Ojos,Fuerza Regida,Por Esos Ojos,Fuerza Regida,2025-02-11,Por Esos Ojos,91
-like JENNIE,JENNIE,like JENNIE,JENNIE,2025-03-07,Ruby,96
-Not At This Party,Dasha,Not At This Party,Dasha,2025-02-28,Not At This Party,75
-Whiskey Drink,Jason Aldean,Whiskey Drink,Jason Aldean,2023-11-03,Highway Desperado,64
-Little Things,Ella Mai,Little Things,Ella Mai,2024-11-03,3,75
-Dandelion,Ariana Grande,dandelion,Ariana Grande,2025-03-28,eternal sunshine deluxe: brighter days ahead,85
+Rank,Song,Artist,input_artist,track_title,album,release_date,track_popularity,artist_followers,artist_genres,artist_popularity
+1.0,Luther,Kendrick Lamar & SZA,,,,,,,,
+2.0,Die With A Smile,Lady Gaga & Bruno Mars,,,,,,,,
+3.0,Nokia,Drake,,,,,,,,
+4.0,Pink Pony Club,Chappell Roan,,,,,,,,
+5.0,Ordinary,Alex Warren,,,,,,,,
+6.0,A Bar Song (Tipsy),Shaboozey,,,,,,,,
+7.0,Lose Control,Teddy Swims,,,,,,,,
+8.0,All The Way,BigXthaPlug Featuring Bailey Zimmerman,,,,,,,,
+9.0,Beautiful Things,Benson Boone,,,,,,,,
+10.0,I'm The Problem,Morgan Wallen,,,,,,,,
+11.0,Just In Case,Morgan Wallen,,,,,,,,
+12.0,Birds Of A Feather,Billie Eilish,,,,,,,,
+13.0,APT.,ROSE & Bruno Mars,,,,,,,,
+14.0,Anxiety,Doechii,,,,,,,,
+15.0,Espresso,Sabrina Carpenter,,,,,,,,
+16.0,Mutt,Leon Thomas,,,,,,,,
+17.0,I Had Some Help,Post Malone Featuring Morgan Wallen,,,,,,,,
+18.0,That's So True,Gracie Abrams,,,,,,,,
+19.0,Not Like Us,Kendrick Lamar,,,,,,,,
+20.0,Love Somebody,Morgan Wallen,,,,,,,,
+21.0,TV Off,Kendrick Lamar Featuring Lefty Gunplay,,,,,,,,
+22.0,Messy,Lola Young,,,,,,,,
+23.0,Sports Car,Tate McRae,,,,,,,,
+24.0,Squabble Up,Kendrick Lamar,,,,,,,,
+25.0,30 For 30,SZA With Kendrick Lamar,,,,,,,,
+26.0,Abracadabra,Lady Gaga,,,,,,,,
+27.0,Timeless,The Weeknd & Playboi Carti,,,,,,,,
+28.0,Taste,Sabrina Carpenter,,,,,,,,
+29.0,I Never Lie,Zach Top,,,,,,,,
+30.0,No One Noticed,The Marias,,,,,,,,
+31.0,Stargazing,Myles Smith,,,,,,,,
+32.0,Bad Dreams,Teddy Swims,,,,,,,,
+33.0,Fortnight,Taylor Swift Featuring Post Malone,,,,,,,,
+34.0,Good News,Shaboozey,,,,,,,,
+35.0,Sailor Song,Gigi Perez,,,,,,,,
+36.0,Sorry I'm Here For Someone Else,Benson Boone,,,,,,,,
+37.0,I'm A Little Crazy,Morgan Wallen,,,,,,,,
+38.0,Worst Way,Riley Green,,,,,,,,
+39.0,Azizam,Ed Sheeran,,,,,,,,
+40.0,Indigo,Sam Barber Featuring Avery Anna,,,,,,,,
+41.0,Dark Thoughts,Lil Tecca,,,,,,,,
+42.0,Denial Is A River,Doechii,,,,,,,,
+43.0,Cry For Me,The Weeknd,,,,,,,,
+44.0,Wildflower,Billie Eilish,,,,,,,,
+45.0,DTMF,Bad Bunny,,,,,,,,
+46.0,Residuals,Chris Brown,,,,,,,,
+47.0,Twilight Zone,Ariana Grande,,,,,,,,
+48.0,Me Jalo,Fuerza Regida & Grupo Frontera,,,,,,,,
+49.0,Rather Lie,Playboi Carti & The Weeknd,,,,,,,,
+50.0,Am I Okay?,Megan Moroney,,,,,,,,
+51.0,The Giver,Chappell Roan,,,,,,,,
+52.0,Weren't For The Wind,Ella Langley,,,,,,,,
+53.0,Baile Inolvidable,Bad Bunny,,,,,,,,
+54.0,Somebody Loves Me,PARTYNEXTDOOR & Drake,,,,,,,,
+55.0,BMF,SZA,,,,,,,,
+56.0,Back To Friends,sombr,,,,,,,,
+57.0,Friends Like That,John Morgan Featuring Jason Aldean,,,,,,,,
+58.0,Te Queria Ver,Aleman X Neton Vega,,,,,,,,
+59.0,Smile,Morgan Wallen,,,,,,,,
+60.0,Ojos Tristes,"Selena Gomez, benny blanco & The Marias",,,,,,,,
+61.0,Revolving Door,Tate McRae,,,,,,,,
+62.0,Loco,Neton Vega,,,,,,,,
+63.0,Hard Fought Hallelujah,Brandon Lake,,,,,,,,
+64.0,Peekaboo,Kendrick Lamar Featuring AzChike,,,,,,,,
+65.0,Somethin' 'Bout A Woman,Thomas Rhett Featuring Teddy Swims,,,,,,,,
+66.0,Busy Woman,Sabrina Carpenter,,,,,,,,
+67.0,Holy Smokes,Bailey Zimmerman,,,,,,,,
+68.0,Caramel,Sleep Token,,,,,,,,
+69.0,End Of The World,Miley Cyrus,,,,,,,,
+70.0,Love Me Not,Ravyn Lenae,,,,,,,,
+71.0,Gimme A Hug,Drake,,,,,,,,
+72.0,Fix What You Didn't Break,Nate Smith,,,,,,,,
+73.0,Call Me When You Break Up,"Selena Gomez, benny blanco & Gracie Abrams",,,,,,,,
+74.0,Texas,Blake Shelton,,,,,,,,
+75.0,Die Trying,"PARTYNEXTDOOR, Drake & Yebba",,,,,,,,
+76.0,No Pole,Don Toliver,,,,,,,,
+77.0,Chest Pain (I Love),Malcolm Todd,,,,,,,,
+78.0,Are You Even Real,Teddy Swims & GIVEON,,,,,,,,
+79.0,EOO,Bad Bunny,,,,,,,,
+80.0,Like Him,"Tyler, The Creator Featuring Lola Young",,,,,,,,
+81.0,Blue Strips,Jessie Murph,,,,,,,,
+82.0,The Largest,BigXthaPlug,,,,,,,,
+83.0,Morena,Neton Vega & Peso Pluma,,,,,,,,
+84.0,Undressed,sombr,,,,,,,,
+85.0,Feel It,d4vd,,,,,,,,
+86.0,Backseat Driver,Kane Brown,,,,,,,,
+87.0,Evil J0rdan,Playboi Carti,,,,,,,,
+88.0,Que Pasaria...,Rauw Alejandro & Bad Bunny,,,,,,,,
+89.0,Nuevayol,Bad Bunny,,,,,,,,
+90.0,"Henry, Come On",Lana Del Rey,,,,,,,,
+91.0,Haunted,Kane Brown With Jelly Roll,,,,,,,,
+92.0,Tattoo,Tito Double P,,,,,,,,
+93.0,Headlock,Imogen Heap,,,,,,,,
+94.0,Hands Of Time,Eric Church,,,,,,,,
+95.0,Por Esos Ojos,Fuerza Regida,,,,,,,,
+96.0,like JENNIE,JENNIE,,,,,,,,
+97.0,Not At This Party,Dasha,,,,,,,,
+98.0,Whiskey Drink,Jason Aldean,,,,,,,,
+99.0,Little Things,Ella Mai,,,,,,,,
+100.0,Dandelion,Ariana Grande,,,,,,,,
+101.0,Die With A Smile,Lady Gaga & Bruno Mars,,,,,,,,
+102.0,Ordinary,Alex Warren,,,,,,,,
+103.0,APT.,ROSE & Bruno Mars,,,,,,,,
+104.0,Birds Of A Feather,Billie Eilish,,,,,,,,
+105.0,Luther,Kendrick Lamar & SZA,,,,,,,,
+106.0,like JENNIE,JENNIE,,,,,,,,
+107.0,Beautiful Things,Benson Boone,,,,,,,,
+108.0,Anxiety,Doechii,,,,,,,,
+109.0,Nokia,Drake,,,,,,,,
+110.0,Messy,Lola Young,,,,,,,,
+111.0,Lose Control,Teddy Swims,,,,,,,,
+112.0,That’s So True,Gracie Abrams,,,,,,,,
+113.0,Abracadabra,Lady Gaga,,,,,,,,
+114.0,Espresso,Sabrina Carpenter,,,,,,,,
+115.0,Not Like Us,Kendrick Lamar,,,,,,,,
+116.0,DTMF,Bad Bunny,,,,,,,,
+117.0,La Plena (W Sound 05),"W Sound, Beele & Ovy On The Drums",,,,,,,,
+118.0,Pink Pony Club,Chappell Roan,,,,,,,,
+119.0,Baile Inolvidable,Bad Bunny,,,,,,,,
+120.0,Sailor Song,Gigi Perez,,,,,,,,
+121.0,Sports Car,Tate McRae,,,,,,,,
+122.0,Timeless,The Weeknd & Playboi Carti,,,,,,,,
+123.0,Wildflower,Billie Eilish,,,,,,,,
+124.0,Azizam,Ed Sheeran,,,,,,,,
+125.0,Te Queria Ver,Aleman X Neton Vega,,,,,,,,
+126.0,A Bar Song (Tipsy),Shaboozey,,,,,,,,
+127.0,Bad Dreams,Teddy Swims,,,,,,,,
+128.0,Mutt,Leon Thomas,,,,,,,,
+129.0,All The Way,BigXthaPlug Featuring Bailey Zimmerman,,,,,,,,
+130.0,Show Me Love,WizTheMc,,,,,,,,
+131.0,"Good Luck, Babe!",Chappell Roan,,,,,,,,
+132.0,No One Noticed,The Marias,,,,,,,,
+133.0,Taste,Sabrina Carpenter,,,,,,,,
+134.0,Twilight Zone,Ariana Grande,,,,,,,,
+135.0,All The Stars,Kendrick Lamar & SZA,,,,,,,,
+136.0,Si Antes Te Hubiera Conocido,Karol G,,,,,,,,
+137.0,The Door,Teddy Swims,,,,,,,,
+138.0,Passo Bem Solto,ATLXS,,,,,,,,
+139.0,TV Off,Kendrick Lamar Featuring Lefty Gunplay,,,,,,,,
+140.0,Too Sweet,Hozier,,,,,,,,
+141.0,EOO,Bad Bunny,,,,,,,,
+142.0,Please Please Please,Sabrina Carpenter,,,,,,,,
+143.0,Just In Case,Morgan Wallen,,,,,,,,
+144.0,Me Jalo,Fuerza Regida & Grupo Frontera,,,,,,,,
+145.0,Save Your Tears,The Weeknd & Ariana Grande,,,,,,,,
+146.0,Gata Only,FloyyMenor X Cris Mj,,,,,,,,
+147.0,Morena,Neton Vega & Peso Pluma,,,,,,,,
+148.0,Back To Friends,sombr,,,,,,,,
+149.0,I Had Some Help,Post Malone Featuring Morgan Wallen,,,,,,,,
+150.0,Iris,Goo Goo Dolls,,,,,,,,
+151.0,Nuevayol,Bad Bunny,,,,,,,,
+152.0,Loco,Neton Vega,,,,,,,,
+153.0,One Of The Girls,"The Weeknd, Jennie & Lily-Rose Depp",,,,,,,,
+154.0,Voy A Llevarte Pa PR,Bad Bunny,,,,,,,,
+155.0,Sweater Weather,The Neighbourhood,,,,,,,,
+156.0,Capaz,Alleh & Yorghaki,,,,,,,,
+157.0,Busy Woman,Sabrina Carpenter,,,,,,,,
+158.0,Yellow,Coldplay,,,,,,,,
+159.0,Montagem Tomada,MXZI,,,,,,,,
+160.0,Every Breath You Take,The Police,,,,,,,,
+161.0,Sorry I'm Here For Someone Else,Benson Boone,,,,,,,,
+162.0,Vitamina,Jombriel & DFZM,,,,,,,,
+163.0,We Can't Be Friends (Wait For Your Love),Ariana Grande,,,,,,,,
+164.0,Love Me Not,Ravyn Lenae,,,,,,,,
+165.0,I'm The Problem,Morgan Wallen,,,,,,,,
+166.0,Ojos Tristes,Selena Gomez & benny blanco,,,,,,,,
+167.0,Blue,yung kai,,,,,,,,
+168.0,The Night We Met,Lord Huron,,,,,,,,
+169.0,Velda,"Bad Bunny, Omar Courtz & Dei V",,,,,,,,
+170.0,Tattoo,Tito Double P,,,,,,,,
+171.0,Dark Thoughts,Lil Tecca,,,,,,,,
+172.0,"Henry, Come On",Lana Del Rey,,,,,,,,
+173.0,Who,Jimin,,,,,,,,
+174.0,Por Esos Ojos,Fuerza Regida,,,,,,,,
+175.0,Viva La Vida,Coldplay,,,,,,,,
+176.0,Mona Lisa,j-hope,,,,,,,,
+177.0,Revolving Door,Tate McRae,,,,,,,,
+178.0,Perfect,Ed Sheeran,,,,,,,,
+179.0,Creep,Radiohead,,,,,,,,
+180.0,Multo,Cup Of Joe,,,,,,,,
+181.0,Mi Refe,Beele & Ovy On The Drums,,,,,,,,
+182.0,End Of The World,Miley Cyrus,,,,,,,,
+183.0,Poker Face,Lady Gaga,,,,,,,,
+184.0,Stargazing,Myles Smith,,,,,,,,
+185.0,The Days,CHRYSTAL,,,,,,,,
+186.0,7 Dias,Gabito Ballesteros & Tito Double P,,,,,,,,
+187.0,Que Pasaria...,Rauw Alejandro & Bad Bunny,,,,,,,,
+188.0,Feel It,d4vd,,,,,,,,
+189.0,"I Love You, I'm Sorry",Gracie Abrams,,,,,,,,
+190.0,En Privado,Xavi & Manuel Turizo,,,,,,,,
+191.0,Shape Of You,Ed Sheeran,,,,,,,,
+192.0,Die For You,The Weeknd & Ariana Grande,,,,,,,,
+193.0,Undressed,sombr,,,,,,,,
+194.0,Snooze,SZA,,,,,,,,
+195.0,Greedy,Tate McRae,,,,,,,,
+196.0,Cruel Summer,Taylor Swift,,,,,,,,
+197.0,M&M,Neton Vega,,,,,,,,
+198.0,Dreams,Fleetwood Mac,,,,,,,,
+199.0,Indigo,Sam Barber Featuring Avery Anna,,,,,,,,
+200.0,Numb,Linkin Park,,,,,,,,
+201.0,In The End,Linkin Park,,,,,,,,
+202.0,Love Somebody,Morgan Wallen,,,,,,,,
+203.0,Blinding Lights,The Weeknd,,,,,,,,
+204.0,Another Love,Tom Odell,,,,,,,,
+205.0,Squabble Up,Kendrick Lamar,,,,,,,,
+206.0,Kusushiki,Mrs. GREEN APPLE,,,,,,,,
+207.0,You'll Be In My Heart,NIKI,,,,,,,,
+208.0,Don't Stop Believin',Journey,,,,,,,,
+209.0,Locked Out Of Heaven,Bruno Mars,,,,,,,,
+210.0,Move,Adam Port & Stryv Featuring Malachiii,,,,,,,,
+211.0,The Giver,Chappell Roan,,,,,,,,
+212.0,El Mayor de Los Ranas,Victor Valverde X JR Torres,,,,,,,,
+213.0,Rather Lie,Playboi Carti & The Weeknd,,,,,,,,
+214.0,Chihiro,Billie Eilish,,,,,,,,
+215.0,Starboy,The Weeknd Featuring Daft Punk,,,,,,,,
+216.0,I Wanna Be Yours,Arctic Monkeys,,,,,,,,
+217.0,Carry You Home,Alex Warren,,,,,,,,
+218.0,Nadie,Tito Double P,,,,,,,,
+219.0,Something Just Like This,The Chainsmokers & Coldplay,,,,,,,,
+220.0,Tu Boda,Oscar Maydon & Fuerza Regida,,,,,,,,
+221.0,Just The Way You Are,Bruno Mars,,,,,,,,
+222.0,Denial Is A River,Doechii,,,,,,,,
+223.0,See You Again,"Tyler, The Creator Featuring Kali Uchis",,,,,,,,
+224.0,Riptide,Vance Joy,,,,,,,,
+225.0,We Are The People,Empire Of The Sun,,,,,,,,
+226.0,Counting Stars,OneRepublic,,,,,,,,
+227.0,Smells Like Teen Spirit,Nirvana,,,,,,,,
+228.0,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,,,,,,,,
+229.0,Summertime Sadness,Lana Del Rey vs. Cedric Gervais,,,,,,,,
+230.0,ExtraL,JENNIE & Doechii,,,,,,,,
+231.0,Levitating,Dua Lipa,,,,,,,,
+232.0,Khe?,Rauw Alejandro & Romeo Santos,,,,,,,,
+233.0,Seven,Jung Kook Featuring Latto,,,,,,,,
+234.0,I'm A Little Crazy,Morgan Wallen,,,,,,,,
+235.0,End Of Beginning,Djo,,,,,,,,
+236.0,505,Arctic Monkeys,,,,,,,,
+237.0,Chest Pain (I Love),Malcolm Todd,,,,,,,,
+238.0,Hot,LE SSERAFIM,,,,,,,,
+239.0,Bed Chem,Sabrina Carpenter,,,,,,,,
+240.0,Nice To Meet You,Myles Smith,,,,,,,,
+241.0,Flowers,Miley Cyrus,,,,,,,,
+242.0,Thunderstruck,AC/DC,,,,,,,,
+243.0,Triple Lavada,Esau Ortiz,,,,,,,,
+244.0,30 For 30,SZA With Kendrick Lamar,,,,,,,,
+245.0,Believer,Imagine Dragons,,,,,,,,
+246.0,Take Me To Church,Hozier,,,,,,,,
+247.0,Mr. Brightside,The Killers,,,,,,,,
+248.0,Someone You Loved,Lewis Capaldi,,,,,,,,
+249.0,I Adore You,HUGEL X Topic X Arash Featuring Daecolm,,,,,,,,
+250.0,Slow It Down,Benson Boone,,,,,,,,
+251.0,Guess,Charli xcx Featuring Billie Eilish,,,,,,,,
+252.0,Doubt,Twenty One Pilots,,,,,,,,
+253.0,The Scientist,Coldplay,,,,,,,,
+254.0,Humble.,Kendrick Lamar,,,,,,,,
+255.0,Without Me,Eminem,,,,,,,,
+256.0,Good News,Shaboozey,,,,,,,,
+257.0,Headlock,Imogen Heap,,,,,,,,
+258.0,Give Me Everything,"Pitbull Featuring Ne-Yo, Afrojack & Nayer",,,,,,,,
+259.0,Si No Es Contigo,Cris Mj,,,,,,,,
+260.0,As It Was,Harry Styles,,,,,,,,
+261.0,Juno,Sabrina Carpenter,,,,,,,,
+262.0,Everybody Wants To Rule The World,Tears For Fears,,,,,,,,
+263.0,Rosones,Tito Double P,,,,,,,,
+264.0,Somebody That I Used To Know,Gotye Featuring Kimbra,,,,,,,,
+265.0,Money Trees,Kendrick Lamar Featuring Jay Rock,,,,,,,,
+266.0,A Sky Full Of Stars,Coldplay,,,,,,,,
+267.0,ROSE,HANA,,,,,,,,
+268.0,Can't Hold Us,Macklemore & Ryan Lewis Featuring Ray Dalton,,,,,,,,
+269.0,Unwritten,Natasha Bedingfield,,,,,,,,
+270.0,Cry For Me,The Weeknd,,,,,,,,
+271.0,Ain't No Love In Oklahoma,Luke Combs,,,,,,,,
+272.0,Feel Good Inc,Gorillaz,,,,,,,,
+273.0,Somewhere Only We Know,Keane,,,,,,,,
+274.0,Billie Jean,Michael Jackson,,,,,,,,
+275.0,Closer,The Chainsmokers Featuring Halsey,,,,,,,,
+276.0,Luna,Feid & ATL Jacob,,,,,,,,
+277.0,Dos Dias,Tito Double P & Peso Pluma,,,,,,,,
+278.0,Sweet Child O' Mine,Guns N' Roses,,,,,,,,
+279.0,Jhol,Maanu X Annural Khalid,,,,,,,,
+280.0,The Emptiness Machine,Linkin Park,,,,,,,,
+281.0,Intro (End Of The World),Ariana Grande,,,,,,,,
+282.0,Whiplash,aespa,,,,,,,,
+283.0,Take On Me,a-ha,,,,,,,,
+284.0,Ma Meilleure Ennemie,Stromae & Pomme,,,,,,,,
+285.0,Como Capo,Clave Especial & Fuerza Regida,,,,,,,,
+286.0,Bad Romance,Lady Gaga,,,,,,,,
+287.0,Push 2 Start,Tyla,,,,,,,,
+288.0,Evil J0rdan,Playboi Carti,,,,,,,,
+289.0,Stressed Out,Twenty One Pilots,,,,,,,,
+290.0,Austin,Dasha,,,,,,,,
+291.0,Bring Me To Life,Evanescence Featuring Paul McCoy,,,,,,,,
+292.0,Kloufrens,Bad Bunny,,,,,,,,
+293.0,Bohemian Rhapsody,Queen,,,,,,,,
+294.0,"Raanjhan (From ""Do Patti"")",Parampara Tandon,,,,,,,,
+295.0,Hollywood,Peso Pluma & Estevan Plazola,,,,,,,,
+296.0,Danza Kuduro,Don Omar & Lucenzo,,,,,,,,
+297.0,Caramel,Sleep Token,,,,,,,,
+298.0,Vita Fer,Los Dareyes de La Sierra X Tito Double P,,,,,,,,
+299.0,That's What I Like,Bruno Mars,,,,,,,,
+300.0,Until I Found You,Stephen Sanchez,,,,,,,,
+,,,Drake,NOKIA,$ome $exy $ongs 4 U,2025-02-14,94.0,98124659.0,"['rap', 'hip hop']",98.0
+,,,Drake,One Dance,Views,2016-05-06,88.0,98124659.0,"['rap', 'hip hop']",98.0
+,,,Drake,DIE TRYING,$ome $exy $ongs 4 U,2025-02-14,88.0,98124659.0,"['rap', 'hip hop']",98.0
+,,,Drake,She Will,Tha Carter IV (Explicit Version),2011-01-01,82.0,98124659.0,"['rap', 'hip hop']",98.0
+,,,Drake,Passionfruit,More Life,2017-03-18,86.0,98124659.0,"['rap', 'hip hop']",98.0
+,,,Chappell Roan,"Good Luck, Babe!","Good Luck, Babe!",2024-04-05,95.0,6033573.0,[],87.0
+,,,Chappell Roan,Pink Pony Club,The Rise and Fall of a Midwest Princess,2023-09-21,88.0,6033573.0,[],87.0
+,,,Chappell Roan,The Giver,The Giver,2025-03-13,89.0,6033573.0,[],87.0
+,,,Chappell Roan,HOT TO GO!,The Rise and Fall of a Midwest Princess,2023-09-21,84.0,6033573.0,[],87.0
+,,,Chappell Roan,Red Wine Supernova,The Rise and Fall of a Midwest Princess,2023-09-22,85.0,6033573.0,[],87.0
+,,,Alex Warren,Ordinary,"You'll Be Alright, Kid (Chapter 1)",2024-09-26,90.0,1262135.0,[],86.0
+,,,Alex Warren,Carry You Home,"You'll Be Alright, Kid (Chapter 1)",2024-09-26,81.0,1262135.0,[],86.0
+,,,Alex Warren,Burning Down,"You'll Be Alright, Kid (Chapter 1)",2024-09-26,76.0,1262135.0,[],86.0
+,,,Alex Warren,Before You Leave Me,"You'll Be Alright, Kid (Chapter 1)",2024-09-26,76.0,1262135.0,[],86.0
+,,,Alex Warren,Burning Down (with Joe Jonas),Burning Down (with Joe Jonas),2024-12-06,83.0,1262135.0,[],86.0
+,,,Shaboozey,A Bar Song (Tipsy),"Where I've Been, Isn't Where I'm Going",2024-05-31,85.0,1139443.0,[],80.0
+,,,Shaboozey,Good News,"Where I've Been, Isn't Where I'm Going: The Complete Edition",2025-04-25,43.0,1139443.0,[],80.0
+,,,Shaboozey,Blink Twice,"Where I've Been, Isn't Where I'm Going: The Complete Edition",2025-04-25,45.0,1139443.0,[],80.0
+,,,Shaboozey,Drink Don't Need No Mix (feat. BigXthaPlug),"Where I've Been, Isn't Where I'm Going",2024-05-31,75.0,1139443.0,[],80.0
+,,,Shaboozey,Last Of My Kind (feat. Paul Cauthen),"Where I've Been, Isn't Where I'm Going",2024-05-31,74.0,1139443.0,[],80.0
+,,,Teddy Swims,Lose Control,I've Tried Everything But Therapy (Part 1),2023-09-15,92.0,4618351.0,[],88.0
+,,,Teddy Swims,Bad Dreams,I've Tried Everything But Therapy (Part 2),2025-01-24,89.0,4618351.0,[],88.0
+,,,Teddy Swims,The Door,I've Tried Everything But Therapy (Part 1),2023-09-15,90.0,4618351.0,[],88.0
+,,,Teddy Swims,Somethin’ ‘Bout A Woman (feat. Teddy Swims),Somethin’ ‘Bout A Woman (feat. Teddy Swims),2024-11-15,83.0,4618351.0,[],88.0
+,,,Teddy Swims,Are You Even Real (feat. Givēon),I've Tried Everything But Therapy (Part 2),2025-01-24,80.0,4618351.0,[],88.0
+,,,Benson Boone,Beautiful Things,Fireworks & Rollerblades,2024-04-05,93.0,5478899.0,[],87.0
+,,,Benson Boone,Sorry I'm Here For Someone Else,Sorry I'm Here For Someone Else,2025-02-27,91.0,5478899.0,[],87.0
+,,,Benson Boone,Slow It Down,Fireworks & Rollerblades,2024-04-05,89.0,5478899.0,[],87.0
+,,,Benson Boone,In The Stars,Fireworks & Rollerblades,2024-04-05,87.0,5478899.0,[],87.0
+,,,Benson Boone,Ghost Town,Fireworks & Rollerblades,2024-04-05,82.0,5478899.0,[],87.0
+,,,Morgan Wallen,I Had Some Help (Feat. Morgan Wallen),F-1 Trillion,2024-08-15,87.0,12443288.0,['country'],92.0
+,,,Morgan Wallen,Just In Case,Just In Case,2025-03-21,89.0,12443288.0,['country'],92.0
+,,,Morgan Wallen,I'm The Problem,I'm The Problem,2025-01-31,89.0,12443288.0,['country'],92.0
+,,,Morgan Wallen,Love Somebody,Love Somebody,2024-10-18,89.0,12443288.0,['country'],92.0
+,,,Morgan Wallen,Last Night,One Thing At A Time,2023-03-03,83.0,12443288.0,['country'],92.0
+,,,Billie Eilish,BIRDS OF A FEATHER,HIT ME HARD AND SOFT,2024-05-17,100.0,110959840.0,[],95.0
+,,,Billie Eilish,WILDFLOWER,HIT ME HARD AND SOFT,2024-05-17,96.0,110959840.0,[],95.0
+,,,Billie Eilish,CHIHIRO,HIT ME HARD AND SOFT,2024-05-17,91.0,110959840.0,[],95.0
+,,,Billie Eilish,Guess featuring billie eilish,Brat and it’s completely different but also still brat,2024-10-11,87.0,110959840.0,[],95.0
+,,,Billie Eilish,lovely (with Khalid),lovely (with Khalid),2018-04-19,89.0,110959840.0,[],95.0
+,,,Doechii,Anxiety,Alligator Bites Never Heal (Extended),2025-03-14,87.0,2810140.0,[],88.0
+,,,Doechii,DENIAL IS A RIVER,Alligator Bites Never Heal,2024-08-30,91.0,2810140.0,[],88.0
+,,,Doechii,ExtraL (feat. Doechii),Ruby,2025-03-07,86.0,2810140.0,[],88.0
+,,,Doechii,NISSAN ALTIMA,Alligator Bites Never Heal,2024-08-30,85.0,2810140.0,[],88.0
+,,,Doechii,Balloon (feat. Doechii),CHROMAKOPIA,2024-10-28,81.0,2810140.0,[],88.0
+,,,Sabrina Carpenter,Espresso,Short n' Sweet,2024-08-23,91.0,21842914.0,[],92.0
+,,,Sabrina Carpenter,Taste,Short n' Sweet,2024-08-23,92.0,21842914.0,[],92.0
+,,,Sabrina Carpenter,Please Please Please,Short n' Sweet,2024-08-23,88.0,21842914.0,[],92.0
+,,,Sabrina Carpenter,Busy Woman,Short n' Sweet (Deluxe),2025-02-14,92.0,21842914.0,[],92.0
+,,,Sabrina Carpenter,Bed Chem,Short n' Sweet,2024-08-23,89.0,21842914.0,[],92.0
+,,,Leon Thomas,MUTT,MUTT,2024-09-27,85.0,493366.0,[],77.0
+,,,Leon Thomas,MUTT (feat. Chris Brown) [CB REMIX],MUTT (CB REMIX),2025-03-21,84.0,493366.0,[],77.0
+,,,Leon Thomas,YES IT IS,MUTT,2024-09-27,73.0,493366.0,[],77.0
+,,,Leon Thomas,Treasure In The Hills,Electric Dusk,2023-08-18,71.0,493366.0,[],77.0
+,,,Leon Thomas,VIBES DON'T LIE,MUTT,2024-09-27,68.0,493366.0,[],77.0
+,,,Gracie Abrams,That’s So True,The Secret of Us (Deluxe),2024-10-18,97.0,5484842.0,[],89.0
+,,,Gracie Abrams,"I Love You, I'm Sorry",The Secret of Us,2024-06-21,91.0,5484842.0,[],89.0
+,,,Gracie Abrams,Close To You,The Secret of Us,2024-06-20,85.0,5484842.0,[],89.0
+,,,Gracie Abrams,Call Me When You Break Up (with Gracie Abrams),I Said I Love You First,2025-03-19,80.0,5484842.0,[],89.0
+,,,Gracie Abrams,"I miss you, I’m sorry",minor,2020-07-14,86.0,5484842.0,[],89.0
+,,,Kendrick Lamar,luther (with sza),GNX,2024-11-21,94.0,40690226.0,"['hip hop', 'west coast hip hop']",96.0
+,,,Kendrick Lamar,Not Like Us,Not Like Us,2024-05-04,96.0,40690226.0,"['hip hop', 'west coast hip hop']",96.0
+,,,Kendrick Lamar,All The Stars (with SZA),Black Panther The Album Music From And Inspired By,2018-02-09,95.0,40690226.0,"['hip hop', 'west coast hip hop']",96.0
+,,,Kendrick Lamar,tv off (feat. lefty gunplay),GNX,2024-11-22,94.0,40690226.0,"['hip hop', 'west coast hip hop']",96.0
+,,,Kendrick Lamar,Money Trees,"good kid, m.A.A.d city",2012,85.0,40690226.0,"['hip hop', 'west coast hip hop']",96.0
+,,,Lola Young,Messy,This Wasn't Meant For You Anyway,2024-06-21,90.0,1027210.0,[],82.0
+,,,Lola Young,Like Him (feat. Lola Young),CHROMAKOPIA,2024-10-28,91.0,1027210.0,[],82.0
+,,,Lola Young,Conceited,This Wasn't Meant For You Anyway,2024-06-21,76.0,1027210.0,[],82.0
+,,,Lola Young,Messy - Sped Up,Messy EP,2024-11-22,69.0,1027210.0,[],82.0
+,,,Lola Young,Wish You Were Dead,This Wasn't Meant For You Anyway,2024-06-21,69.0,1027210.0,[],82.0
+,,,Tate McRae,Sports car,So Close To What,2025-02-20,89.0,7563078.0,[],91.0
+,,,Tate McRae,Revolving door,So Close To What,2025-02-21,91.0,7563078.0,[],91.0
+,,,Tate McRae,greedy,greedy,2023-09-15,90.0,7563078.0,[],91.0
+,,,Tate McRae,It's ok I'm ok,So Close To What,2025-02-21,82.0,7563078.0,[],91.0
+,,,Tate McRae,you broke me first,TOO YOUNG TO BE SAD,2021-03-26,86.0,7563078.0,[],91.0
+,,,Lady Gaga,Die With A Smile,MAYHEM,2025-03-07,91.0,37217444.0,"['art pop', 'pop']",94.0
+,,,Lady Gaga,Abracadabra,MAYHEM,2025-03-07,89.0,37217444.0,"['art pop', 'pop']",94.0
+,,,Lady Gaga,Poker Face,The Fame,2008-01-01,87.0,37217444.0,"['art pop', 'pop']",94.0
+,,,Lady Gaga,Just Dance,The Fame,2008-01-01,85.0,37217444.0,"['art pop', 'pop']",94.0
+,,,Lady Gaga,Bad Romance,The Fame Monster (Deluxe Edition),2009-11-05,88.0,37217444.0,"['art pop', 'pop']",94.0
+,,,Zach Top,I Never Lie,Cold Beer & Country Music,2024-04-05,85.0,534927.0,['country'],76.0
+,,,Zach Top,Bad Luck,Cold Beer & Country Music,2024-04-05,79.0,534927.0,['country'],76.0
+,,,Zach Top,Use Me,Cold Beer & Country Music,2024-04-05,77.0,534927.0,['country'],76.0
+,,,Zach Top,Sounds Like the Radio,Cold Beer & Country Music,2024-04-05,77.0,534927.0,['country'],76.0
+,,,Zach Top,Dirt Turns to Gold,Cold Beer & Country Music,2024-04-05,73.0,534927.0,['country'],76.0
+,,,The Marias,No One Noticed,Submarine,2024-05-31,93.0,2649386.0,['bedroom pop'],86.0
+,,,The Marias,Ojos Tristes (with The Marías),I Said I Love You First,2025-03-19,83.0,2649386.0,['bedroom pop'],86.0
+,,,The Marias,Heavy,CINEMA,2021-06-25,86.0,2649386.0,['bedroom pop'],86.0
+,,,The Marias,Sienna,Submarine,2024-05-31,84.0,2649386.0,['bedroom pop'],86.0
+,,,The Marias,No One Noticed (Extended Spanish),No One Noticed (Extended),2024-11-15,83.0,2649386.0,['bedroom pop'],86.0
+,,,Myles Smith,Stargazing,Stargazing,2024-05-10,89.0,1041815.0,[],79.0
+,,,Myles Smith,Nice To Meet You,Nice To Meet You (Mistletoe Version),2024-12-13,81.0,1041815.0,[],79.0
+,,,Myles Smith,Blink Twice,"Where I've Been, Isn't Where I'm Going: The Complete Edition",2025-04-25,45.0,1041815.0,[],79.0
+,,,Myles Smith,Wait For You,Wait For You,2024-08-23,76.0,1041815.0,[],79.0
+,,,Myles Smith,Solo,Solo,2023-11-15,75.0,1041815.0,[],79.0
+,,,Gigi Perez,Sailor Song,"At The Beach, In Every Life",2025-04-25,58.0,1136328.0,[],81.0
+,,,Gigi Perez,Fable,"At The Beach, In Every Life",2025-04-25,54.0,1136328.0,[],81.0
+,,,Gigi Perez,Sometimes (Backwood),Sometimes (Backwood),2021-02-05,74.0,1136328.0,[],81.0
+,,,Gigi Perez,Please Be Rude,"At The Beach, In Every Life",2025-04-25,53.0,1136328.0,[],81.0
+,,,Gigi Perez,Chemistry,"At The Beach, In Every Life",2025-04-25,54.0,1136328.0,[],81.0
+,,,Riley Green,Worst Way,Way Out Here,2024-04-12,84.0,1088470.0,['country'],79.0
+,,,Riley Green,you look like you love me (feat. Riley Green),hungover,2024-08-02,77.0,1088470.0,['country'],79.0
+,,,Riley Green,Don't Mind If I Do,Don't Mind If I Do,2024-10-18,78.0,1088470.0,['country'],79.0
+,,,Riley Green,Different 'Round Here,Ain't My Last Rodeo,2023-10-13,75.0,1088470.0,['country'],79.0
+,,,Riley Green,There Was This Girl,Different 'Round Here,2019-09-20,75.0,1088470.0,['country'],79.0
+,,,Ed Sheeran,Shape of You,÷ (Deluxe),2017-03-03,90.0,120188814.0,['soft pop'],90.0
+,,,Ed Sheeran,Perfect,÷ (Deluxe),2017-03-03,90.0,120188814.0,['soft pop'],90.0
+,,,Ed Sheeran,Azizam,Azizam,2025-04-04,89.0,120188814.0,['soft pop'],90.0
+,,,Ed Sheeran,Photograph,x (Deluxe Edition),2014-06-21,88.0,120188814.0,['soft pop'],90.0
+,,,Ed Sheeran,Thinking out Loud,x (Deluxe Edition),2014-06-21,85.0,120188814.0,['soft pop'],90.0
+,,,Lil Tecca,Dark Thoughts,Dark Thoughts,2025-03-14,93.0,9262896.0,"['melodic rap', 'rap']",85.0
+,,,Lil Tecca,Ransom,We Love You Tecca,2019-08-30,87.0,9262896.0,"['melodic rap', 'rap']",85.0
+,,,Lil Tecca,500lbs,TEC,2023-09-22,83.0,9262896.0,"['melodic rap', 'rap']",85.0
+,,,Lil Tecca,LOT OF ME,We Love You Tecca 2,2021-08-27,82.0,9262896.0,"['melodic rap', 'rap']",85.0
+,,,Lil Tecca,Ransom (with Juice WRLD) - Remix,We Love You Tecca,2019-08-30,79.0,9262896.0,"['melodic rap', 'rap']",85.0
+,,,The Weeknd,Timeless (feat Playboi Carti),Hurry Up Tomorrow,2025-01-31,95.0,104006183.0,[],97.0
+,,,The Weeknd,"One Of The Girls (with JENNIE, Lily Rose Depp)",The Idol Episode 4 (Music from the HBO Original Series),2023-06-23,94.0,104006183.0,[],97.0
+,,,The Weeknd,RATHER LIE (with The Weeknd),MUSIC,2025-03-14,91.0,104006183.0,[],97.0
+,,,The Weeknd,Starboy,Starboy,2016-11-25,91.0,104006183.0,[],97.0
+,,,The Weeknd,Blinding Lights,After Hours,2020-03-20,90.0,104006183.0,[],97.0
+,,,Bad Bunny,DtMF,DeBÍ TiRAR MáS FOToS,2025-01-05,98.0,94602608.0,"['reggaeton', 'trap latino', 'urbano latino', 'latin']",100.0
+,,,Bad Bunny,BAILE INoLVIDABLE,DeBÍ TiRAR MáS FOToS,2025-01-05,96.0,94602608.0,"['reggaeton', 'trap latino', 'urbano latino', 'latin']",100.0
+,,,Bad Bunny,EoO,DeBÍ TiRAR MáS FOToS,2025-01-05,94.0,94602608.0,"['reggaeton', 'trap latino', 'urbano latino', 'latin']",100.0
+,,,Bad Bunny,NUEVAYoL,DeBÍ TiRAR MáS FOToS,2025-01-05,94.0,94602608.0,"['reggaeton', 'trap latino', 'urbano latino', 'latin']",100.0
+,,,Bad Bunny,VOY A LLeVARTE PA PR,DeBÍ TiRAR MáS FOToS,2025-01-05,93.0,94602608.0,"['reggaeton', 'trap latino', 'urbano latino', 'latin']",100.0
+,,,Chris Brown,Under The Influence,Indigo (Extended),2019-10-04,86.0,26221299.0,['r&b'],90.0
+,,,Chris Brown,International Love (feat. Chris Brown),Planet Pit (Deluxe Version),2011-06-17,84.0,26221299.0,['r&b'],90.0
+,,,Chris Brown,MUTT (feat. Chris Brown) [CB REMIX],MUTT (CB REMIX),2025-03-21,84.0,26221299.0,['r&b'],90.0
+,,,Chris Brown,Forever,Forever,2008-04-29,83.0,26221299.0,['r&b'],90.0
+,,,Chris Brown,Superhero (Heroes & Villains) [with Future & Chris Brown],HEROES & VILLAINS,2022-12-02,82.0,26221299.0,['r&b'],90.0
+,,,Ariana Grande,we can't be friends (wait for your love),eternal sunshine,2024-03-08,89.0,105035600.0,['pop'],95.0
+,,,Ariana Grande,twilight zone,eternal sunshine deluxe: brighter days ahead (a cappella version),2025-03-27,81.0,105035600.0,['pop'],95.0
+,,,Ariana Grande,dandelion,eternal sunshine deluxe: brighter days ahead (a cappella version),2025-03-27,77.0,105035600.0,['pop'],95.0
+,,,Ariana Grande,One Last Time,My Everything (Deluxe),2014-08-22,86.0,105035600.0,['pop'],95.0
+,,,Ariana Grande,Save Your Tears (Remix) (with Ariana Grande) - Bonus Track,After Hours (Deluxe),2020-03-20,82.0,105035600.0,['pop'],95.0
+,,,Megan Moroney,Tennessee Orange,Lucky,2023-05-05,80.0,818806.0,['country'],77.0
+,,,Megan Moroney,Am I Okay?,Am I Okay?,2024-07-12,81.0,818806.0,['country'],77.0
+,,,Megan Moroney,I'm Not Pretty,Lucky,2023-05-05,76.0,818806.0,['country'],77.0
+,,,Megan Moroney,Wonder,Wonder,2021-02-26,77.0,818806.0,['country'],77.0
+,,,Megan Moroney,No Caller ID,Am I Okay?,2024-07-12,73.0,818806.0,['country'],77.0
+,,,Ella Langley,weren't for the wind,still hungover,2024-11-01,79.0,392381.0,['country'],75.0
+,,,Ella Langley,you look like you love me (feat. Riley Green),hungover,2024-08-02,77.0,392381.0,['country'],75.0
+,,,Ella Langley,Country Boy's Dream Girl,Excuse The Mess,2023-05-19,73.0,392381.0,['country'],75.0
+,,,Ella Langley,girl you're taking home,still hungover,2024-11-01,72.0,392381.0,['country'],75.0
+,,,Ella Langley,Strangers,Keepin' The Lights On,2024-05-31,66.0,392381.0,['country'],75.0
+,,,SZA,علي باب السيما - من مسلسل ريفو,Rivo (من مسلسل ريفو),2022-06-29,61.0,621268.0,"['egyptian pop', 'arabic rap', 'egyptian hip hop']",50.0
+,,,SZA,حكمة الايام - من مسلسل ريفو,Rivo (من مسلسل ريفو),2022-06-29,57.0,621268.0,"['egyptian pop', 'arabic rap', 'egyptian hip hop']",50.0
+,,,SZA,الوقت فات - من مسلسل ريفو,Rivo (من مسلسل ريفو),2022-06-29,56.0,621268.0,"['egyptian pop', 'arabic rap', 'egyptian hip hop']",50.0
+,,,SZA,انا نجم - من مسلسل ريفو,Rivo (من مسلسل ريفو),2022-06-29,52.0,621268.0,"['egyptian pop', 'arabic rap', 'egyptian hip hop']",50.0
+,,,SZA,ياما سوا - من مسلسل ريفو,Rivo (من مسلسل ريفو),2022-06-29,44.0,621268.0,"['egyptian pop', 'arabic rap', 'egyptian hip hop']",50.0
+,,,sombr,back to friends,back to friends,2024-12-27,93.0,616801.0,[],81.0
+,,,sombr,undressed,undressed,2025-03-21,90.0,616801.0,[],81.0
+,,,sombr,would've been you,would've been you,2023-11-17,82.0,616801.0,[],81.0
+,,,sombr,do i ever cross your mind,do i ever cross your mind,2024-08-30,81.0,616801.0,[],81.0
+,,,sombr,i don't know you anymore,i don't know you anymore,2023-12-14,77.0,616801.0,[],81.0
+,,,Neton Vega,Te Quería Ver,Te Quería Ver,2025-01-31,94.0,2089060.0,"['corrido', 'corridos tumbados', 'corridos bélicos', 'electro corridos']",91.0
+,,,Neton Vega,Morena,Mi Vida Mi Muerte,2025-02-14,92.0,2089060.0,"['corrido', 'corridos tumbados', 'corridos bélicos', 'electro corridos']",91.0
+,,,Neton Vega,Loco,Mi Vida Mi Muerte,2025-02-14,87.0,2089060.0,"['corrido', 'corridos tumbados', 'corridos bélicos', 'electro corridos']",91.0
+,,,Neton Vega,M&M,Mi Vida Mi Muerte,2025-02-14,90.0,2089060.0,"['corrido', 'corridos tumbados', 'corridos bélicos', 'electro corridos']",91.0
+,,,Neton Vega,Amigos? No.,Amigos? No.,2025-03-06,89.0,2089060.0,"['corrido', 'corridos tumbados', 'corridos bélicos', 'electro corridos']",91.0
+,,,Brandon Lake,Gratitude,House Of Miracles,2020-08-28,76.0,1139418.0,"['worship', 'christian']",76.0
+,,,Brandon Lake,That's Who I Praise,That's Who I Praise,2024-07-29,74.0,1139418.0,"['worship', 'christian']",76.0
+,,,Brandon Lake,Hard Fought Hallelujah (with Jelly Roll),Hard Fought Hallelujah (with Jelly Roll),2025-02-07,74.0,1139418.0,"['worship', 'christian']",76.0
+,,,Brandon Lake,Graves Into Gardens (Live),Graves Into Gardens (Live),2020-05-01,69.0,1139418.0,"['worship', 'christian']",76.0
+,,,Brandon Lake,Hard Fought Hallelujah,Hard Fought Hallelujah: Heavyweight Edition,2024-12-06,66.0,1139418.0,"['worship', 'christian']",76.0
+,,,Bailey Zimmerman,All The Way (feat. Bailey Zimmerman),All The Way (feat. Bailey Zimmerman),2025-04-04,86.0,1701825.0,['country'],79.0
+,,,Bailey Zimmerman,Rock and A Hard Place,Religiously. The Album.,2023-01-11,83.0,1701825.0,['country'],79.0
+,,,Bailey Zimmerman,Fall In Love,Religiously. The Album.,2023-01-11,80.0,1701825.0,['country'],79.0
+,,,Bailey Zimmerman,Religiously,Religiously. The Album.,2023-01-11,80.0,1701825.0,['country'],79.0
+,,,Bailey Zimmerman,Holy Smokes,Holy Smokes,2024-02-23,78.0,1701825.0,['country'],79.0
+,,,Sleep Token,Caramel,Caramel,2025-04-04,87.0,2218653.0,"['progressive metal', 'metalcore']",83.0
+,,,Sleep Token,Emergence,Emergence,2025-03-13,86.0,2218653.0,"['progressive metal', 'metalcore']",83.0
+,,,Sleep Token,The Summoning,Take Me Back To Eden,2023-05-19,79.0,2218653.0,"['progressive metal', 'metalcore']",83.0
+,,,Sleep Token,Take Me Back To Eden,Take Me Back To Eden,2023-05-19,79.0,2218653.0,"['progressive metal', 'metalcore']",83.0
+,,,Sleep Token,Granite,Take Me Back To Eden,2023-05-19,77.0,2218653.0,"['progressive metal', 'metalcore']",83.0
+,,,Miley Cyrus,Flowers,Endless Summer Vacation,2023-08-18,89.0,25880593.0,[],85.0
+,,,Miley Cyrus,Party In The U.S.A.,The Time Of Our Lives (International Version),2009-01-01,83.0,25880593.0,[],85.0
+,,,Miley Cyrus,End of the World,End of the World,2025-04-04,87.0,25880593.0,[],85.0
+,,,Miley Cyrus,Wrecking Ball,Bangerz (Deluxe Version),2013-10-04,83.0,25880593.0,[],85.0
+,,,Miley Cyrus,Angels Like You,Plastic Hearts,2020-11-27,82.0,25880593.0,[],85.0
+,,,Ravyn Lenae,Love Me Not,Bird's Eye,2024-08-09,86.0,574208.0,['alternative r&b'],76.0
+,,,Ravyn Lenae,Love Me Not (feat. Rex Orange County),Love Me Not (feat. Rex Orange County),2024-10-08,79.0,574208.0,['alternative r&b'],76.0
+,,,Ravyn Lenae,Genius,Bird's Eye,2024-08-09,69.0,574208.0,['alternative r&b'],76.0
+,,,Ravyn Lenae,One Wish (feat. Childish Gambino),Bird's Eye,2024-08-09,65.0,574208.0,['alternative r&b'],76.0
+,,,Ravyn Lenae,Skin Tight (feat. Steve Lacy),HYPNOS,2022-05-20,66.0,574208.0,['alternative r&b'],76.0
+,,,Nate Smith,World on Fire,NATE SMITH (DELUXE),2023-04-28,79.0,496562.0,['country'],73.0
+,,,Nate Smith,Whiskey On You,NATE SMITH (DELUXE),2023-04-28,77.0,496562.0,['country'],73.0
+,,,Nate Smith,I Like It (with Nate Smith),I Like It (with Nate Smith),2024-07-12,76.0,496562.0,['country'],73.0
+,,,Nate Smith,Fix What You Didn't Break,California Gold,2024-10-04,66.0,496562.0,['country'],73.0
+,,,Nate Smith,Bulletproof,Through the Smoke,2024-04-05,72.0,496562.0,['country'],73.0
+,,,Blake Shelton,Pour Me A Drink (Feat. Blake Shelton),F-1 Trillion,2024-08-15,77.0,7429268.0,['country'],74.0
+,,,Blake Shelton,God's Country,Fully Loaded: God's Country,2019-12-13,71.0,7429268.0,['country'],74.0
+,,,Blake Shelton,Texas,Texas,2024-11-15,73.0,7429268.0,['country'],74.0
+,,,Blake Shelton,Came Here to Forget,If I'm Honest,2016-05-20,69.0,7429268.0,['country'],74.0
+,,,Blake Shelton,She Wouldn't Be Gone,Startin' Fires,2008-11-18,45.0,7429268.0,['country'],74.0
+,,,Don Toliver,No Pole,Love Sick (Deluxe),2023-02-28,90.0,6577250.0,[],87.0
+,,,Don Toliver,NEW DROP,HARDSTONE PSYCHO,2024-06-14,86.0,6577250.0,[],87.0
+,,,Don Toliver,BANDIT,HARDSTONE PSYCHO,2024-06-14,82.0,6577250.0,[],87.0
+,,,Don Toliver,TORE UP,HARDSTONE PSYCHO,2024-06-14,83.0,6577250.0,[],87.0
+,,,Don Toliver,No Idea,Heaven Or Hell,2020-03-13,83.0,6577250.0,[],87.0
+,,,Malcolm Todd,Chest Pain (I Love),Malcolm Todd,2025-04-04,76.0,489792.0,[],77.0
+,,,Malcolm Todd,Bleed (feat. Omar Apollo),Malcolm Todd,2025-04-04,71.0,489792.0,[],77.0
+,,,Malcolm Todd,Roommates,Sweet Boy,2024-04-05,73.0,489792.0,[],77.0
+,,,Malcolm Todd,Sweet Boy,Sweet Boy,2024-04-05,70.0,489792.0,[],77.0
+,,,Malcolm Todd,Cheer Me On,Malcolm Todd,2025-04-04,66.0,489792.0,[],77.0
+,,,Jessie Murph,High Road (feat. Jessie Murph),9 Lives,2024-07-19,81.0,1256862.0,[],77.0
+,,,Jessie Murph,Blue Strips,Blue Strips,2025-04-11,81.0,1256862.0,[],77.0
+,,,Jessie Murph,Holy Ground (feat. Jessie Murph),TAKE CARE (DELUXE),2025-01-24,79.0,1256862.0,[],77.0
+,,,Jessie Murph,Wild Ones (feat. Jelly Roll),That Ain't No Man That's The Devil,2024-09-06,75.0,1256862.0,[],77.0
+,,,Jessie Murph,Gucci Mane,Gucci Mane,2025-04-04,74.0,1256862.0,[],77.0
+,,,BigXthaPlug,All The Way (feat. Bailey Zimmerman),All The Way (feat. Bailey Zimmerman),2025-04-04,86.0,1544385.0,['southern hip hop'],84.0
+,,,BigXthaPlug,Mmhmm,THE BIGGEST,2023-12-01,83.0,1544385.0,['southern hip hop'],84.0
+,,,BigXthaPlug,Levels,AMAR,2023-02-10,81.0,1544385.0,['southern hip hop'],84.0
+,,,BigXthaPlug,The Largest,TAKE CARE,2024-10-11,80.0,1544385.0,['southern hip hop'],84.0
+,,,BigXthaPlug,Back On My BS,THE BIGGEST,2023-12-01,81.0,1544385.0,['southern hip hop'],84.0
+,,,d4vd,Feel It,WITHERED,2025-04-25,58.0,3859111.0,[],84.0
+,,,d4vd,Here With Me,Petals to Thorns,2023-05-26,88.0,3859111.0,[],84.0
+,,,d4vd,Romantic Homicide,Romantic Homicide,2022-07-20,87.0,3859111.0,[],84.0
+,,,d4vd,Crashing (with Kali Uchis),WITHERED,2025-04-25,58.0,3859111.0,[],84.0
+,,,d4vd,What Are You Waiting For,WITHERED,2025-04-25,57.0,3859111.0,[],84.0
+,,,Kane Brown,Miles On It,Miles On It,2024-05-03,84.0,5668086.0,"['country', 'pop country']",76.0
+,,,Kane Brown,One Thing Right,One Thing Right,2019-06-21,76.0,5668086.0,"['country', 'pop country']",76.0
+,,,Kane Brown,What Ifs (feat. Lauren Alaina),Kane Brown,2016-12-02,73.0,5668086.0,"['country', 'pop country']",76.0
+,,,Kane Brown,Heaven,Kane Brown (Deluxe Edition),2017-10-06,73.0,5668086.0,"['country', 'pop country']",76.0
+,,,Kane Brown,Thank God,Different Man,2022-09-09,72.0,5668086.0,"['country', 'pop country']",76.0
+,,,Playboi Carti,Timeless (feat Playboi Carti),Hurry Up Tomorrow,2025-01-31,95.0,14102557.0,['rage rap'],94.0
+,,,Playboi Carti,RATHER LIE (with The Weeknd),MUSIC,2025-03-14,91.0,14102557.0,['rage rap'],94.0
+,,,Playboi Carti,EVIL J0RDAN,MUSIC,2025-03-14,91.0,14102557.0,['rage rap'],94.0
+,,,Playboi Carti,FE!N (feat. Playboi Carti),UTOPIA,2023-07-28,88.0,14102557.0,['rage rap'],94.0
+,,,Playboi Carti,Type Shit,WE DON'T TRUST YOU,2024-03-22,86.0,14102557.0,['rage rap'],94.0
+,,,Lana Del Rey,Summertime Sadness,Born To Die – Paradise Edition (Special Version),2012-01-01,77.0,46964888.0,[],92.0
+,,,Lana Del Rey,Young And Beautiful,Young And Beautiful,2013-01-01,88.0,46964888.0,[],92.0
+,,,Lana Del Rey,Cinnamon Girl,Norman Fucking Rockwell!,2019-08-30,88.0,46964888.0,[],92.0
+,,,Lana Del Rey,Say Yes To Heaven,Say Yes To Heaven,2023-05-19,87.0,46964888.0,[],92.0
+,,,Lana Del Rey,West Coast,Ultraviolence (Deluxe),2014-01-01,85.0,46964888.0,[],92.0
+,,,Tito Double P,TATTOO,TATTOO,2025-02-27,91.0,6767871.0,"['corrido', 'corridos tumbados', 'corridos bélicos', 'electro corridos', 'música mexicana']",91.0
+,,,Tito Double P,7 DIAS,7 DIAS,2025-01-30,91.0,6767871.0,"['corrido', 'corridos tumbados', 'corridos bélicos', 'electro corridos', 'música mexicana']",91.0
+,,,Tito Double P,ROSONES,ROSONES,2024-12-05,90.0,6767871.0,"['corrido', 'corridos tumbados', 'corridos bélicos', 'electro corridos', 'música mexicana']",91.0
+,,,Tito Double P,NADIE,NADIE,2024-11-21,89.0,6767871.0,"['corrido', 'corridos tumbados', 'corridos bélicos', 'electro corridos', 'música mexicana']",91.0
+,,,Tito Double P,DOS DÍAS,INCÓMODO,2024-08-22,89.0,6767871.0,"['corrido', 'corridos tumbados', 'corridos bélicos', 'electro corridos', 'música mexicana']",91.0
+,,,Imogen Heap,Headlock,Speak for Yourself (Deluxe Version),2005,90.0,971075.0,[],80.0
+,,,Imogen Heap,I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino),I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino),2023-08-18,87.0,971075.0,[],80.0
+,,,Imogen Heap,A New Kind Of Love - Demo,A New Kind Of Love (Demo),2022-04-08,82.0,971075.0,[],80.0
+,,,Imogen Heap,I'm God,Instrumental Relics,2020-04-24,79.0,971075.0,[],80.0
+,,,Imogen Heap,The Happy Song,The Happy Song,2016-10-17,77.0,971075.0,[],80.0
+,,,Eric Church,Springsteen,Chief,2011-01-01,81.0,4044801.0,"['country', 'acoustic country']",74.0
+,,,Eric Church,Man Made A Bar (feat. Eric Church),One Thing At A Time,2023-03-03,78.0,4044801.0,"['country', 'acoustic country']",74.0
+,,,Eric Church,Drink In My Hand,Chief,2011-01-01,76.0,4044801.0,"['country', 'acoustic country']",74.0
+,,,Eric Church,Talladega,The Outsiders,2014-01-01,71.0,4044801.0,"['country', 'acoustic country']",74.0
+,,,Eric Church,Record Year,Mr. Misunderstood,2015-11-11,70.0,4044801.0,"['country', 'acoustic country']",74.0
+,,,Fuerza Regida,ME JALO,MALA MÍA,2024-12-19,92.0,15331137.0,"['corrido', 'corridos tumbados', 'corridos bélicos', 'música mexicana', 'banda', 'sierreño', 'electro corridos', 'sad sierreño']",91.0
+,,,Fuerza Regida,Por Esos Ojos,Por Esos Ojos,2025-02-11,91.0,15331137.0,"['corrido', 'corridos tumbados', 'corridos bélicos', 'música mexicana', 'banda', 'sierreño', 'electro corridos', 'sad sierreño']",91.0
+,,,Fuerza Regida,Tu Boda,Tu Boda,2024-09-26,89.0,15331137.0,"['corrido', 'corridos tumbados', 'corridos bélicos', 'música mexicana', 'banda', 'sierreño', 'electro corridos', 'sad sierreño']",91.0
+,,,Fuerza Regida,COMO CAPO,MIJA NO TE ASUSTES,2025-02-20,84.0,15331137.0,"['corrido', 'corridos tumbados', 'corridos bélicos', 'música mexicana', 'banda', 'sierreño', 'electro corridos', 'sad sierreño']",91.0
+,,,Fuerza Regida,Pika Pika,Pika Pika,2024-11-29,88.0,15331137.0,"['corrido', 'corridos tumbados', 'corridos bélicos', 'música mexicana', 'banda', 'sierreño', 'electro corridos', 'sad sierreño']",91.0
+,,,JENNIE,like JENNIE,Ruby,2025-03-07,96.0,10033487.0,['k-pop'],89.0
+,,,JENNIE,"One Of The Girls (with JENNIE, Lily Rose Depp)",The Idol Episode 4 (Music from the HBO Original Series),2023-06-23,94.0,10033487.0,['k-pop'],89.0
+,,,JENNIE,ExtraL (feat. Doechii),Ruby,2025-03-07,86.0,10033487.0,['k-pop'],89.0
+,,,JENNIE,Handlebars (feat. Dua Lipa),Ruby,2025-03-07,87.0,10033487.0,['k-pop'],89.0
+,,,JENNIE,Mantra,Ruby,2025-03-07,83.0,10033487.0,['k-pop'],89.0
+,,,Dasha,Meri Petara Makai,Lagu Gawai 2020,2020-09-15,11.0,30.0,[],1.0
+,,,Jason Aldean,You Make It Easy,Rearview Town,2018-04-13,79.0,6849072.0,"['country', 'acoustic country']",78.0
+,,,Jason Aldean,Dirt Road Anthem,My Kinda Party,2010-11-02,78.0,6849072.0,"['country', 'acoustic country']",78.0
+,,,Jason Aldean,She's Country,Wide Open,2009-04-07,77.0,6849072.0,"['country', 'acoustic country']",78.0
+,,,Jason Aldean,Big Green Tractor,Wide Open,2009-04-07,72.0,6849072.0,"['country', 'acoustic country']",78.0
+,,,Jason Aldean,The Truth,Wide Open,2009-04-07,72.0,6849072.0,"['country', 'acoustic country']",78.0
+,,,Ella Mai,Trip,Ella Mai,2018-10-12,75.0,5946501.0,['r&b'],72.0
+,,,Ella Mai,Little Things,3,2024-11-03,75.0,5946501.0,['r&b'],72.0
+,,,Ella Mai,She Don't (feat. Ty Dolla $Ign),Time,2016-02-15,72.0,5946501.0,['r&b'],72.0
+,,,Ella Mai,Boo'd Up,READY,2017-02-22,71.0,5946501.0,['r&b'],72.0
+,,,Ella Mai,Naked - Bonus Track,Ella Mai,2018-10-12,68.0,5946501.0,['r&b'],72.0
+,,,WizTheMc,Show Me Love,Show Me Love,2025-02-07,94.0,123382.0,[],76.0
+,,,WizTheMc,Show Me Love (with Tyla),Show Me Love (with Tyla),2025-04-18,73.0,123382.0,[],76.0
+,,,WizTheMc,IYK,IYK,2024-08-02,61.0,123382.0,[],76.0
+,,,WizTheMc,For A Minute,For A Minute,2020-06-18,57.0,123382.0,[],76.0
+,,,WizTheMc,Death of Me,Death of Me,2023-10-13,52.0,123382.0,[],76.0
+,,,Karol G,Si Antes Te Hubiera Conocido,Si Antes Te Hubiera Conocido,2024-06-21,94.0,56355756.0,"['reggaeton', 'latin', 'urbano latino']",89.0
+,,,Karol G,PROVENZA,MAÑANA SERÁ BONITO,2023-02-24,83.0,56355756.0,"['reggaeton', 'latin', 'urbano latino']",89.0
+,,,Karol G,+57,+57,2024-11-08,85.0,56355756.0,"['reggaeton', 'latin', 'urbano latino']",89.0
+,,,Karol G,QLONA,MAÑANA SERÁ BONITO (BICHOTA SEASON),2023-08-10,83.0,56355756.0,"['reggaeton', 'latin', 'urbano latino']",89.0
+,,,Karol G,TQG,MAÑANA SERÁ BONITO,2023-02-24,83.0,56355756.0,"['reggaeton', 'latin', 'urbano latino']",89.0
+,,,ATLXS,PASSO BEM SOLTO - Slowed,PASSO BEM SOLTO,2025-02-18,72.0,89016.0,"['phonk', 'brazilian phonk']",81.0
+,,,ATLXS,MONTAGEM LADRAO,MONTAGEM LADRAO,2025-02-05,81.0,89016.0,"['phonk', 'brazilian phonk']",81.0
+,,,ATLXS,MONTAGEM LADRAO - Slowed,MONTAGEM LADRAO,2025-02-05,81.0,89016.0,"['phonk', 'brazilian phonk']",81.0
+,,,ATLXS,PASSO BEM SOLTO,PASSO BEM SOLTO,2025-02-18,61.0,89016.0,"['phonk', 'brazilian phonk']",81.0
+,,,ATLXS,PASSO BEM SOLTO - Super Slowed,PASSO BEM SOLTO,2025-02-18,64.0,89016.0,"['phonk', 'brazilian phonk']",81.0
+,,,Hozier,Too Sweet,Unreal Unearth: Unaired,2024-08-19,87.0,8721484.0,[],86.0
+,,,Hozier,Take Me To Church,Hozier,2014-09-19,86.0,8721484.0,[],86.0
+,,,Hozier,Northern Attitude (with Hozier),Stick Season (Forever),2024-02-09,76.0,8721484.0,[],86.0
+,,,Hozier,Work Song,Hozier,2014-09-19,77.0,8721484.0,[],86.0
+,,,Hozier,Someone New,Hozier,2014-09-19,76.0,8721484.0,[],86.0
+,,,Goo Goo Dolls,Iris,Dizzy up the Girl,1998,92.0,3190355.0,[],77.0
+,,,Goo Goo Dolls,Slide,Dizzy up the Girl,1998,76.0,3190355.0,[],77.0
+,,,Goo Goo Dolls,Name,A Boy Named Goo,1995,71.0,3190355.0,[],77.0
+,,,Goo Goo Dolls,Black Balloon,Dizzy up the Girl,1998,65.0,3190355.0,[],77.0
+,,,Goo Goo Dolls,Better Days,Let Love In,2006,64.0,3190355.0,[],77.0
+,,,The Neighbourhood,Sweater Weather,I Love You.,2013-04-22,92.0,20214340.0,[],85.0
+,,,The Neighbourhood,Softcore,Hard To Imagine The Neighbourhood Ever Changing,2018-11-02,88.0,20214340.0,[],85.0
+,,,The Neighbourhood,Daddy Issues,Wiped Out!,2015-10-30,87.0,20214340.0,[],85.0
+,,,The Neighbourhood,Reflections,Hard To Imagine The Neighbourhood Ever Changing,2018-11-02,85.0,20214340.0,[],85.0
+,,,The Neighbourhood,You Get Me So High,Hard To Imagine The Neighbourhood Ever Changing,2018-11-02,83.0,20214340.0,[],85.0
+,,,Coldplay,Yellow,Parachutes,2000-07-10,93.0,58075224.0,[],92.0
+,,,Coldplay,Viva La Vida,Viva La Vida or Death and All His Friends,2008-06-19,77.0,58075224.0,[],92.0
+,,,Coldplay,Something Just Like This,Memories...Do Not Open,2017-04-07,90.0,58075224.0,[],92.0
+,,,Coldplay,The Scientist,A Rush of Blood to the Head,2002-08-27,90.0,58075224.0,[],92.0
+,,,Coldplay,A Sky Full of Stars,Ghost Stories,2014-05-16,90.0,58075224.0,[],92.0
+,,,MXZI,MONTAGEM TOMADA - Slowed,MONTAGEM TOMADA,2025-03-21,75.0,55505.0,"['phonk', 'brazilian phonk']",78.0
+,,,MXZI,MONTAGEM TOMADA,MONTAGEM TOMADA,2025-03-21,74.0,55505.0,"['phonk', 'brazilian phonk']",78.0
+,,,MXZI,MONTAGEM LADRAO,MONTAGEM LADRAO,2025-02-05,81.0,55505.0,"['phonk', 'brazilian phonk']",78.0
+,,,MXZI,MONTAGEM LADRAO - Slowed,MONTAGEM LADRAO,2025-02-05,81.0,55505.0,"['phonk', 'brazilian phonk']",78.0
+,,,MXZI,MONTAGEM TOMADA - Super Slowed,MONTAGEM TOMADA,2025-03-21,66.0,55505.0,"['phonk', 'brazilian phonk']",78.0
+,,,The Police,Every Breath You Take,Synchronicity (Remastered 2003),1983-06-17,92.0,7071815.0,[],79.0
+,,,The Police,Roxanne,Outlandos D'Amour (Remastered 2003),1978-11-02,81.0,7071815.0,[],79.0
+,,,The Police,Message In A Bottle,Reggatta De Blanc (Remastered 2003),1979-10-02,80.0,7071815.0,[],79.0
+,,,The Police,Every Little Thing She Does Is Magic,Ghost In The Machine (Remastered 2003),1981-10-02,79.0,7071815.0,[],79.0
+,,,The Police,Don't Stand So Close To Me,Zenyatta Mondatta (Remastered 2003),1980-10-03,74.0,7071815.0,[],79.0
+,,,yung kai,blue,blue,2024-08-02,93.0,1092368.0,[],77.0
+,,,yung kai,wildflower,wildflower,2024-04-26,75.0,1092368.0,[],77.0
+,,,yung kai,do you think you could love me?,do you think you could love me?,2025-03-07,74.0,1092368.0,[],77.0
+,,,yung kai,blue - slowed down,shades of blue,2024-08-02,70.0,1092368.0,[],77.0
+,,,yung kai,blue - sped up,shades of blue,2024-08-02,70.0,1092368.0,[],77.0
+,,,Lord Huron,The Night We Met,Strange Trails,2015-04-06,91.0,1972279.0,[],78.0
+,,,Lord Huron,The Night We Met,The Night We Met,2018-05-18,73.0,1972279.0,[],78.0
+,,,Lord Huron,Ends of the Earth,Lonesome Dreams (Bonus Track Version),2012-10-09,75.0,1972279.0,[],78.0
+,,,Lord Huron,Meet Me In The Woods,Strange Trails,2015-04-06,68.0,1972279.0,[],78.0
+,,,Lord Huron,I Lied (with Allison Ponthier),Long Lost,2021-05-21,69.0,1972279.0,[],78.0
+,,,Jimin,Who,MUSE,2024-07-19,90.0,10115405.0,['k-pop'],83.0
+,,,Jimin,Be Mine,MUSE,2024-07-19,76.0,10115405.0,['k-pop'],83.0
+,,,Jimin,Like Crazy,FACE,2023-03-24,77.0,10115405.0,['k-pop'],83.0
+,,,Jimin,Slow Dance (feat. Sofia Carson),MUSE,2024-07-19,74.0,10115405.0,['k-pop'],83.0
+,,,Jimin,Smeraldo Garden Marching Band (feat. Loco),MUSE,2024-07-19,72.0,10115405.0,['k-pop'],83.0
+,,,j-hope,MONA LISA,MONA LISA,2025-03-21,90.0,18408849.0,"['k-pop', 'k-rap']",82.0
+,,,j-hope,Sweet Dreams (feat. Miguel),Sweet Dreams (feat. Miguel),2025-03-07,87.0,18408849.0,"['k-pop', 'k-rap']",82.0
+,,,j-hope,LV Bag (feat. j-hope of BTS & Pharrell Williams),LV Bag (feat. j-hope of BTS & Pharrell Williams),2025-02-21,81.0,18408849.0,"['k-pop', 'k-rap']",82.0
+,,,j-hope,MORE,Jack In The Box,2022-07-15,72.0,18408849.0,"['k-pop', 'k-rap']",82.0
+,,,j-hope,NEURON (with Gaeko & YOON MIRAE),HOPE ON THE STREET VOL.1,2024-03-29,75.0,18408849.0,"['k-pop', 'k-rap']",82.0
+,,,Radiohead,Creep,Pablo Honey,1993-02-22,91.0,12004974.0,"['art rock', 'alternative rock']",86.0
+,,,Radiohead,No Surprises,OK Computer,1997-05-28,86.0,12004974.0,"['art rock', 'alternative rock']",86.0
+,,,Radiohead,Karma Police,OK Computer,1997-05-28,84.0,12004974.0,"['art rock', 'alternative rock']",86.0
+,,,Radiohead,Let Down,OK Computer,1997-05-28,83.0,12004974.0,"['art rock', 'alternative rock']",86.0
+,,,Radiohead,All I Need,In Rainbows,2007-12-28,82.0,12004974.0,"['art rock', 'alternative rock']",86.0
+,,,Cup Of Joe,Multo,Silakbo,2025-01-17,85.0,2035052.0,"['opm', 'harana', 'p-pop', 'pinoy indie', 'kundiman']",79.0
+,,,Cup Of Joe,Tingin,Tingin,2023-04-28,81.0,2035052.0,"['opm', 'harana', 'p-pop', 'pinoy indie', 'kundiman']",79.0
+,,,Cup Of Joe,Misteryoso,Misteryoso,2024-05-17,81.0,2035052.0,"['opm', 'harana', 'p-pop', 'pinoy indie', 'kundiman']",79.0
+,,,Cup Of Joe,Estranghero,Estranghero,2022-06-10,77.0,2035052.0,"['opm', 'harana', 'p-pop', 'pinoy indie', 'kundiman']",79.0
+,,,Cup Of Joe,Ikaw Pa Rin Ang Pipiliin Ko,Ikaw Pa Rin Ang Pipiliin Ko,2021-07-02,76.0,2035052.0,"['opm', 'harana', 'p-pop', 'pinoy indie', 'kundiman']",79.0
+,,,CHRYSTAL,The Days - NOTION Remix,The Days (NOTION Remix),2024-11-08,91.0,42786.0,[],74.0
+,,,CHRYSTAL,The Days,The Days,2024-10-01,68.0,42786.0,[],74.0
+,,,CHRYSTAL,The Days - NOTION Remix Slowed,The Days (NOTION Remix Slowed),2025-01-20,66.0,42786.0,[],74.0
+,,,CHRYSTAL,The Days - NOTION Extended Remix,The Days (NOTION Extended Remix),2024-12-20,58.0,42786.0,[],74.0
+,,,CHRYSTAL,The Days - Mazza_l20 Remix,The Days (Mazza_l20 Remix),2024-11-29,56.0,42786.0,[],74.0
+,,,Taylor Swift,Cruel Summer,Lover,2019-08-23,91.0,136482677.0,[],98.0
+,,,Taylor Swift,Fortnight (feat. Post Malone),THE TORTURED POETS DEPARTMENT,2024-04-18,85.0,136482677.0,[],98.0
+,,,Taylor Swift,cardigan,folklore,2020-07-24,86.0,136482677.0,[],98.0
+,,,Taylor Swift,Lover,Lover,2019-08-23,86.0,136482677.0,[],98.0
+,,,Taylor Swift,august,folklore,2020-07-24,86.0,136482677.0,[],98.0
+,,,Fleetwood Mac,Dreams - 2004 Remaster,Rumours (Super Deluxe),1977-02-04,90.0,13039893.0,"['classic rock', 'soft rock']",84.0
+,,,Fleetwood Mac,The Chain - 2004 Remaster,Rumours (Super Deluxe),1977-02-04,86.0,13039893.0,"['classic rock', 'soft rock']",84.0
+,,,Fleetwood Mac,Everywhere - 2017 Remaster,Tango In the Night (Deluxe Edition),1987-04-13,84.0,13039893.0,"['classic rock', 'soft rock']",84.0
+,,,Fleetwood Mac,Go Your Own Way - 2004 Remaster,Rumours,1977-02-04,82.0,13039893.0,"['classic rock', 'soft rock']",84.0
+,,,Fleetwood Mac,Landslide,Fleetwood Mac,1975-07-11,81.0,13039893.0,"['classic rock', 'soft rock']",84.0
+,,,Linkin Park,Numb,Meteora,2003-03-25,90.0,29765421.0,"['nu metal', 'rap metal', 'rock', 'alternative metal']",91.0
+,,,Linkin Park,In the End,Hybrid Theory (Bonus Edition),2000-10-24,89.0,29765421.0,"['nu metal', 'rap metal', 'rock', 'alternative metal']",91.0
+,,,Linkin Park,The Emptiness Machine,From Zero,2024-11-15,85.0,29765421.0,"['nu metal', 'rap metal', 'rock', 'alternative metal']",91.0
+,,,Linkin Park,Faint,Meteora,2003-03-25,86.0,29765421.0,"['nu metal', 'rap metal', 'rock', 'alternative metal']",91.0
+,,,Linkin Park,Up From the Bottom,Up From the Bottom,2025-03-27,86.0,29765421.0,"['nu metal', 'rap metal', 'rock', 'alternative metal']",91.0
+,,,Tom Odell,Another Love,Long Way Down (Deluxe),2013-06-24,89.0,4165222.0,[],78.0
+,,,Tom Odell,Black Friday (pretty like the sun),Black Friday (pretty like the sun),2024-07-19,85.0,4165222.0,[],78.0
+,,,Tom Odell,Black Friday,Black Friday,2024-01-26,75.0,4165222.0,[],78.0
+,,,Tom Odell,Heal,Long Way Down (Deluxe),2013-06-24,76.0,4165222.0,[],78.0
+,,,Tom Odell,Another Love - Tiësto Remix,Another Love (Tiësto Remix),2022-05-13,73.0,4165222.0,[],78.0
+,,,Mrs. GREEN APPLE,ライラック,ライラック,2024-04-11,81.0,5459104.0,"['j-pop', 'anime', 'j-rock']",83.0
+,,,Mrs. GREEN APPLE,クスシキ,クスシキ,2025-04-04,80.0,5459104.0,"['j-pop', 'anime', 'j-rock']",83.0
+,,,Mrs. GREEN APPLE,インフェルノ,Attitude,2019-10-01,76.0,5459104.0,"['j-pop', 'anime', 'j-rock']",83.0
+,,,Mrs. GREEN APPLE,ダーリン,ダーリン,2025-01-19,79.0,5459104.0,"['j-pop', 'anime', 'j-rock']",83.0
+,,,Mrs. GREEN APPLE,ケセラセラ,ANTENNA,2023-07-04,77.0,5459104.0,"['j-pop', 'anime', 'j-rock']",83.0
+,,,NIKI,You'll Be in My Heart - Spotify Singles,Spotify Singles,2022-09-14,91.0,6188812.0,[],84.0
+,,,NIKI,Backburner,Nicole,2022-08-12,83.0,6188812.0,[],84.0
+,,,NIKI,Take A Chance With Me,Nicole,2022-08-11,83.0,6188812.0,[],84.0
+,,,NIKI,Oceans & Engines,Nicole,2022-08-11,81.0,6188812.0,[],84.0
+,,,NIKI,lowkey,lowkey,2019-04-24,80.0,6188812.0,[],84.0
+,,,Journey,Don't Stop Believin' (2022 Remaster),Escape (2022 Remaster),1981-07-17,88.0,6154849.0,"['album rock', 'classic rock']",77.0
+,,,Journey,Any Way You Want It,Departure,1980,76.0,6154849.0,"['album rock', 'classic rock']",77.0
+,,,Journey,Separate Ways (Worlds Apart) [2023 Remaster],Frontiers (2023 Remaster),1983-02-01,76.0,6154849.0,"['album rock', 'classic rock']",77.0
+,,,Journey,Faithfully (2023 Remaster),Frontiers (2023 Remaster),1983-02-01,74.0,6154849.0,"['album rock', 'classic rock']",77.0
+,,,Journey,Who's Crying Now (2022 Remaster),Escape (2022 Remaster),1981-07-17,71.0,6154849.0,"['album rock', 'classic rock']",77.0
+,,,Bruno Mars,Die With A Smile,MAYHEM,2025-03-07,91.0,71062292.0,[],95.0
+,,,Bruno Mars,APT.,rosie,2024-12-06,91.0,71062292.0,[],95.0
+,,,Bruno Mars,Just the Way You Are,Doo-Wops & Hooligans,2010-05-11,84.0,71062292.0,[],95.0
+,,,Bruno Mars,Locked out of Heaven,Unorthodox Jukebox,2012-12-07,91.0,71062292.0,[],95.0
+,,,Bruno Mars,That's What I Like,24K Magic,2016-11-17,90.0,71062292.0,[],95.0
+,,,Arctic Monkeys,I Wanna Be Yours,AM,2013-09-09,93.0,29966745.0,"['indie', 'garage rock']",88.0
+,,,Arctic Monkeys,505,Favourite Worst Nightmare,2007-04-22,88.0,29966745.0,"['indie', 'garage rock']",88.0
+,,,Arctic Monkeys,No. 1 Party Anthem,AM,2013-09-09,90.0,29966745.0,"['indie', 'garage rock']",88.0
+,,,Arctic Monkeys,Do I Wanna Know?,AM,2013-09-09,89.0,29966745.0,"['indie', 'garage rock']",88.0
+,,,Arctic Monkeys,Why'd You Only Call Me When You're High?,AM,2013-09-09,87.0,29966745.0,"['indie', 'garage rock']",88.0
+,,,Vance Joy,Riptide,Dream Your Life Away (Deluxe Edition),2014-08-05,86.0,3356248.0,['folk pop'],77.0
+,,,Vance Joy,Mess Is Mine,Dream Your Life Away (Deluxe Edition),2014-08-05,75.0,3356248.0,['folk pop'],77.0
+,,,Vance Joy,Missing Piece,In Our Own Sweet Time,2022-06-10,68.0,3356248.0,['folk pop'],77.0
+,,,Vance Joy,Georgia,Dream Your Life Away (Deluxe Edition),2014-08-05,71.0,3356248.0,['folk pop'],77.0
+,,,Vance Joy,Saturday Sun,Nation of Two,2018-02-23,72.0,3356248.0,['folk pop'],77.0
+,,,Empire Of The Sun,We Are The People,Walking On A Dream,2008-01-01,62.0,1824995.0,[],82.0
+,,,Empire Of The Sun,The Spins,K.I.D.S. (Deluxe),2010-08-13,87.0,1824995.0,[],82.0
+,,,Empire Of The Sun,Walking On A Dream,Walking On A Dream,2008-01-01,59.0,1824995.0,[],82.0
+,,,Empire Of The Sun,The Thrill,The Thrill (feat. Empire of the Sun),2020-11-11,85.0,1824995.0,[],82.0
+,,,Empire Of The Sun,Alive,Ice On The Dune,2013-01-01,76.0,1824995.0,[],82.0
+,,,OneRepublic,Counting Stars,Native,2013-01-01,89.0,18201023.0,['soft pop'],85.0
+,,,OneRepublic,I Ain't Worried,Artificial Paradise (Deluxe),2024-07-12,80.0,18201023.0,['soft pop'],85.0
+,,,OneRepublic,I Don't Wanna Wait,I Don't Wanna Wait,2024-04-05,86.0,18201023.0,['soft pop'],85.0
+,,,OneRepublic,Sunshine,Artificial Paradise (Deluxe),2024-07-12,73.0,18201023.0,['soft pop'],85.0
+,,,OneRepublic,I Lived,Native,2013-01-01,79.0,18201023.0,['soft pop'],85.0
+,,,Nirvana,Smells Like Teen Spirit,Nevermind (Remastered),1991-09-26,86.0,22030221.0,"['grunge', 'rock']",84.0
+,,,Nirvana,Come As You Are,Nevermind (Remastered),1991-09-26,84.0,22030221.0,"['grunge', 'rock']",84.0
+,,,Nirvana,Heart-Shaped Box,In Utero (Deluxe Edition),1993-09-21,84.0,22030221.0,"['grunge', 'rock']",84.0
+,,,Nirvana,Lithium,Nevermind (Remastered),1991-09-26,76.0,22030221.0,"['grunge', 'rock']",84.0
+,,,Nirvana,About A Girl,Bleach,1989-06-01,79.0,22030221.0,"['grunge', 'rock']",84.0
+,,,Dua Lipa,Handlebars (feat. Dua Lipa),Ruby,2025-03-07,87.0,45918395.0,['pop'],89.0
+,,,Dua Lipa,Cold Heart - PNAU Remix,The Lockdown Sessions,2021-10-22,81.0,45918395.0,['pop'],89.0
+,,,Dua Lipa,Training Season,Radical Optimism,2024-05-03,84.0,45918395.0,['pop'],89.0
+,,,Dua Lipa,Houdini,Radical Optimism,2024-05-03,86.0,45918395.0,['pop'],89.0
+,,,Dua Lipa,Don't Start Now,Future Nostalgia,2020-03-27,83.0,45918395.0,['pop'],89.0
+,,,Djo,High Enough - RAC Remix,High Enough (RAC Remix),2017-08-04,65.0,169845.0,[],56.0
+,,,Djo,Blue Jeans - RAC Mix,Tropical Hits,2021-05-12,42.0,169845.0,[],56.0
+,,,Djo,Maybes - RAC Mix,Too Real (Remixes),2017-12-05,55.0,169845.0,[],56.0
+,,,Djo,Passion,BOY,2020-05-08,55.0,169845.0,[],56.0
+,,,Djo,We Belong - Odesza Remix,We Belong (Odesza Remix),2015-02-10,48.0,169845.0,[],56.0
+,,,LE SSERAFIM,HOT,HOT (English ver.) (feat. JADE),2025-04-14,70.0,7007190.0,['k-pop'],82.0
+,,,LE SSERAFIM,CRAZY,CRAZY (Party Remixes 1),2024-09-02,81.0,7007190.0,['k-pop'],82.0
+,,,LE SSERAFIM,Come Over,Come Over (Remixes),2025-03-31,72.0,7007190.0,['k-pop'],82.0
+,,,LE SSERAFIM,Smart,Smart (Remixes),2024-03-22,78.0,7007190.0,['k-pop'],82.0
+,,,LE SSERAFIM,Perfect Night,Perfect Night,2023-10-27,80.0,7007190.0,['k-pop'],82.0
+,,,AC/DC,Thunderstruck,The Razors Edge,1990-09-24,88.0,31069683.0,"['rock', 'hard rock', 'classic rock', 'rock and roll']",84.0
+,,,AC/DC,Highway to Hell,Highway to Hell,1979-07-27,87.0,31069683.0,"['rock', 'hard rock', 'classic rock', 'rock and roll']",84.0
+,,,AC/DC,Back In Black,Back In Black,1980-07-25,87.0,31069683.0,"['rock', 'hard rock', 'classic rock', 'rock and roll']",84.0
+,,,AC/DC,You Shook Me All Night Long,Back In Black,1980-07-25,85.0,31069683.0,"['rock', 'hard rock', 'classic rock', 'rock and roll']",84.0
+,,,AC/DC,T.N.T.,High Voltage,1976-05-14,81.0,31069683.0,"['rock', 'hard rock', 'classic rock', 'rock and roll']",84.0
+,,,Esau Ortiz,Triple Lavada,Triple Lavada,2025-03-28,87.0,31908.0,"['electro corridos', 'corrido', 'corridos tumbados']",70.0
+,,,Esau Ortiz,Licuado,Licuado,2024-12-27,50.0,31908.0,"['electro corridos', 'corrido', 'corridos tumbados']",70.0
+,,,Esau Ortiz,C ARMO,C ARMO,2023-11-02,51.0,31908.0,"['electro corridos', 'corrido', 'corridos tumbados']",70.0
+,,,Esau Ortiz,En Que Les Molesta,Aunque Ande Tumbado,2021-12-10,46.0,31908.0,"['electro corridos', 'corrido', 'corridos tumbados']",70.0
+,,,Esau Ortiz,Miénteme,Aunque Ande Tumbado,2021-12-10,42.0,31908.0,"['electro corridos', 'corrido', 'corridos tumbados']",70.0
+,,,Imagine Dragons,Believer,Evolve,2017-06-23,89.0,57086252.0,[],88.0
+,,,Imagine Dragons,Demons,Night Visions,2012-09-04,85.0,57086252.0,[],88.0
+,,,Imagine Dragons,Thunder,Evolve,2017-06-23,87.0,57086252.0,[],88.0
+,,,Imagine Dragons,Bones,Mercury - Acts 1 & 2,2022-07-01,83.0,57086252.0,[],88.0
+,,,Imagine Dragons,Enemy (with JID) - from the series Arcane League of Legends,Mercury - Acts 1 & 2,2022-07-01,82.0,57086252.0,[],88.0
+,,,The Killers,Mr. Brightside,Hot Fuss,2004,90.0,7794701.0,['alternative rock'],79.0
+,,,The Killers,Somebody Told Me,Hot Fuss,2004,83.0,7794701.0,['alternative rock'],79.0
+,,,The Killers,When You Were Young,Sam's Town,2006-09-27,80.0,7794701.0,['alternative rock'],79.0
+,,,The Killers,Human,Day & Age (Bonus Tracks),2008-11-18,78.0,7794701.0,['alternative rock'],79.0
+,,,The Killers,All These Things That I've Done,Hot Fuss,2004,75.0,7794701.0,['alternative rock'],79.0
+,,,Lewis Capaldi,Someone You Loved,Divinely Uninspired To A Hellish Extent,2019-05-17,88.0,13431267.0,['soft pop'],80.0
+,,,Lewis Capaldi,Before You Go,Divinely Uninspired To A Hellish Extent (Extended Edition),2019-11-22,84.0,13431267.0,['soft pop'],80.0
+,,,Lewis Capaldi,Bruises,Divinely Uninspired To A Hellish Extent,2019-05-17,80.0,13431267.0,['soft pop'],80.0
+,,,Lewis Capaldi,Hold Me While You Wait,Divinely Uninspired To A Hellish Extent,2019-05-17,78.0,13431267.0,['soft pop'],80.0
+,,,Lewis Capaldi,Wish You The Best,Broken By Desire To Be Heavenly Sent,2023-05-19,77.0,13431267.0,['soft pop'],80.0
+,,,Twenty One Pilots,Stressed Out,Blurryface,2015-05-15,88.0,25319648.0,[],85.0
+,,,Twenty One Pilots,Ride,Blurryface,2015-05-15,86.0,25319648.0,[],85.0
+,,,Twenty One Pilots,Heathens,Heathens,2016-06-16,84.0,25319648.0,[],85.0
+,,,Twenty One Pilots,Doubt,Blurryface,2015-05-15,83.0,25319648.0,[],85.0
+,,,Twenty One Pilots,The Line (from the series Arcane League of Legends),Arcane League of Legends: Season 2 (Soundtrack from the Animated Series),2024-11-23,80.0,25319648.0,[],85.0
+,,,Eminem,Without Me,The Eminem Show,2002-05-26,89.0,100069261.0,"['rap', 'hip hop']",92.0
+,,,Eminem,Mockingbird,Encore (Deluxe Version),2004-11-12,88.0,100069261.0,"['rap', 'hip hop']",92.0
+,,,Eminem,Lose Yourself,Just Lose It,2004-01-01,82.0,100069261.0,"['rap', 'hip hop']",92.0
+,,,Eminem,The Real Slim Shady,The Marshall Mathers LP,2000-05-23,87.0,100069261.0,"['rap', 'hip hop']",92.0
+,,,Eminem,Love The Way You Lie,Recovery,2010-06-18,86.0,100069261.0,"['rap', 'hip hop']",92.0
+,,,Cris Mj,Gata Only,EL COMIENZO,2024-08-09,82.0,5884850.0,"['reggaeton chileno', 'chilean trap', 'chilean mambo', 'reggaeton']",86.0
+,,,Cris Mj,SI NO ES CONTIGO,SI NO ES CONTIGO,2024-05-23,85.0,5884850.0,"['reggaeton chileno', 'chilean trap', 'chilean mambo', 'reggaeton']",86.0
+,,,Cris Mj,Después De La 1,MJ,2024-09-12,83.0,5884850.0,"['reggaeton chileno', 'chilean trap', 'chilean mambo', 'reggaeton']",86.0
+,,,Cris Mj,SI NO ES CONTIGO - REMIX,SI NO ES CONTIGO (REMIX),2024-10-17,83.0,5884850.0,"['reggaeton chileno', 'chilean trap', 'chilean mambo', 'reggaeton']",86.0
+,,,Cris Mj,Una Noche en Medellín,Una Noche en Medellín,2022-01-21,82.0,5884850.0,"['reggaeton chileno', 'chilean trap', 'chilean mambo', 'reggaeton']",86.0
+,,,Harry Styles,As It Was,Harry's House,2022-05-20,90.0,33653074.0,[],85.0
+,,,Harry Styles,Sign of the Times,Harry Styles,2017-05-12,87.0,33653074.0,[],85.0
+,,,Harry Styles,Watermelon Sugar,Fine Line,2019-12-13,86.0,33653074.0,[],85.0
+,,,Harry Styles,Adore You,Fine Line,2019-12-13,84.0,33653074.0,[],85.0
+,,,Harry Styles,Falling,Fine Line,2019-12-13,81.0,33653074.0,[],85.0
+,,,Tears For Fears,Everybody Wants To Rule The World,Songs From The Big Chair (Super Deluxe Edition),1985-02-25,89.0,3865985.0,"['new wave', 'synthpop']",76.0
+,,,Tears For Fears,Shout,Songs From The Big Chair,1985-02-25,77.0,3865985.0,"['new wave', 'synthpop']",76.0
+,,,Tears For Fears,"Head Over Heels - Dave Bascombe 7"" N.Mix",Songs From The Big Chair (Deluxe),1985-02-25,74.0,3865985.0,"['new wave', 'synthpop']",76.0
+,,,Tears For Fears,Mad World,The Hurting,1983-03-07,71.0,3865985.0,"['new wave', 'synthpop']",76.0
+,,,Tears For Fears,Woman In Chains,The Seeds Of Love,1989-09-25,69.0,3865985.0,"['new wave', 'synthpop']",76.0
+,,,HANA,ROSE,ROSE,2025-04-02,78.0,133776.0,['j-pop'],64.0
+,,,HANA,Drop,ROSE,2025-04-23,56.0,133776.0,['j-pop'],64.0
+,,,HANA,Tiger,ROSE,2025-04-23,55.0,133776.0,['j-pop'],64.0
+,,,Natasha Bedingfield,Unwritten,Unwritten,2004-08-30,90.0,1866582.0,[],76.0
+,,,Natasha Bedingfield,Pocketful of Sunshine,Pocketful Of Sunshine,2007-04-27,81.0,1866582.0,[],76.0
+,,,Natasha Bedingfield,These Words,These Words,2024-04-05,77.0,1866582.0,[],76.0
+,,,Natasha Bedingfield,These Words,Unwritten,2004-08-30,71.0,1866582.0,[],76.0
+,,,Natasha Bedingfield,Love Like This (feat. Sean Kingston),Pocketful Of Sunshine,2007-04-27,62.0,1866582.0,[],76.0
+,,,Luke Combs,Ain't No Love In Oklahoma (From Twisters: The Album),Ain't No Love In Oklahoma (From Twisters: The Album),2024-05-16,87.0,12619537.0,['country'],86.0
+,,,Luke Combs,Where the Wild Things Are,Gettin' Old,2023-03-24,86.0,12619537.0,['country'],86.0
+,,,Luke Combs,When It Rains It Pours,This One's for You,2017-06-02,86.0,12619537.0,['country'],86.0
+,,,Luke Combs,Fast Car,Gettin' Old,2023-03-24,85.0,12619537.0,['country'],86.0
+,,,Luke Combs,Guy For That (Feat. Luke Combs),F-1 Trillion,2024-08-15,81.0,12619537.0,['country'],86.0
+,,,Gorillaz,Feel Good Inc.,Demon Days,2005-05-23,90.0,13256681.0,[],83.0
+,,,Gorillaz,On Melancholy Hill,Plastic Beach,2010-03-03,85.0,13256681.0,[],83.0
+,,,Gorillaz,Clint Eastwood,Gorillaz,2001-03-26,81.0,13256681.0,[],83.0
+,,,Gorillaz,DARE,Demon Days,2005-05-23,82.0,13256681.0,[],83.0
+,,,Gorillaz,Rhinestone Eyes,Plastic Beach,2010-03-03,80.0,13256681.0,[],83.0
+,,,Keane,Somewhere Only We Know,Hopes And Fears,2004-05-10,87.0,3756510.0,[],76.0
+,,,Keane,Everybody's Changing,Hopes And Fears,2004-05-10,78.0,3756510.0,[],76.0
+,,,Keane,This Is The Last Time,Hopes And Fears,2004-05-10,67.0,3756510.0,[],76.0
+,,,Keane,Nothing In My Way,Under The Iron Sea,2006-06-12,68.0,3756510.0,[],76.0
+,,,Keane,Bend & Break,Hopes And Fears,2004-05-10,62.0,3756510.0,[],76.0
+,,,Michael Jackson,Billie Jean,Thriller,1982-11-30,85.0,35514934.0,[],85.0
+,,,Michael Jackson,Beat It,Thriller,1982-11-30,82.0,35514934.0,[],85.0
+,,,Michael Jackson,Smooth Criminal - 2012 Remaster,Bad (Remastered),1987-08-31,78.0,35514934.0,[],85.0
+,,,Michael Jackson,Rock with You - Single Version,Off the Wall,1979-08-10,82.0,35514934.0,[],85.0
+,,,Michael Jackson,Chicago,XSCAPE,2014-05-09,82.0,35514934.0,[],85.0
+,,,Guns N' Roses,Sweet Child O' Mine,Appetite For Destruction,1987-07-21,89.0,33688539.0,"['rock', 'glam metal', 'hard rock', 'classic rock']",82.0
+,,,Guns N' Roses,Welcome To The Jungle,Appetite For Destruction,1987-07-21,85.0,33688539.0,"['rock', 'glam metal', 'hard rock', 'classic rock']",82.0
+,,,Guns N' Roses,Paradise City,Appetite For Destruction,1987-07-21,84.0,33688539.0,"['rock', 'glam metal', 'hard rock', 'classic rock']",82.0
+,,,Guns N' Roses,November Rain,Use Your Illusion I,1991-09-17,83.0,33688539.0,"['rock', 'glam metal', 'hard rock', 'classic rock']",82.0
+,,,Guns N' Roses,Knockin' On Heaven's Door,Use Your Illusion II,1991-09-18,82.0,33688539.0,"['rock', 'glam metal', 'hard rock', 'classic rock']",82.0
+,,,aespa,Whiplash,Whiplash - The 5th Mini Album,2024-10-21,79.0,8492918.0,['k-pop'],80.0
+,,,aespa,Supernova,Armageddon - The 1st Album,2024-05-26,75.0,8492918.0,['k-pop'],80.0
+,,,aespa,UP - KARINA Solo,SYNK : PARALLEL LINE - Special Digital Single,2024-10-09,80.0,8492918.0,['k-pop'],80.0
+,,,aespa,Armageddon,Armageddon - The 1st Album,2024-05-26,74.0,8492918.0,['k-pop'],80.0
+,,,aespa,Drama,Drama - The 4th Mini Album,2023-11-10,79.0,8492918.0,['k-pop'],80.0
+,,,a-ha,Take on Me,Hunting High and Low,1985-06-01,88.0,2690361.0,"['new wave', 'synthpop']",74.0
+,,,a-ha,The Sun Always Shines on T.V.,Hunting High and Low,1985-06-01,70.0,2690361.0,"['new wave', 'synthpop']",74.0
+,,,a-ha,Hunting High and Low,Hunting High and Low,1985-06-01,69.0,2690361.0,"['new wave', 'synthpop']",74.0
+,,,a-ha,Crying in the Rain,"East of the Sun, West of the Moon",1990-10-27,68.0,2690361.0,"['new wave', 'synthpop']",74.0
+,,,a-ha,Stay on These Roads,Stay on These Roads,1988-05-03,67.0,2690361.0,"['new wave', 'synthpop']",74.0
+,,,Tyla,Ngajat Ngalu Temuai,Taboh - Sape,2010-01-27,4.0,81.0,['traditional music'],1.0
+,,,Tyla,Taboh Kajat,Taboh - Sape,2010-01-27,4.0,81.0,['traditional music'],1.0
+,,,Tyla,Taboh Kuntau,Taboh - Sape,2010-01-27,2.0,81.0,['traditional music'],1.0
+,,,Tyla,Ngajat Niti Papan,Taboh - Sape,2010-01-27,2.0,81.0,['traditional music'],1.0
+,,,Tyla,Kajat Kumang Menoa,Taboh - Sape,2010-01-27,1.0,81.0,['traditional music'],1.0
+,,,Queen,Bohemian Rhapsody - Remastered 2011,A Night At The Opera (2011 Remaster),1975-11-21,83.0,53739088.0,"['classic rock', 'rock', 'glam rock']",86.0
+,,,Queen,Don't Stop Me Now - Remastered 2011,Jazz (2011 Remaster),1978-11-10,85.0,53739088.0,"['classic rock', 'rock', 'glam rock']",86.0
+,,,Queen,Under Pressure - Remastered 2011,Hot Space (2011 Remaster),1982-05-03,84.0,53739088.0,"['classic rock', 'rock', 'glam rock']",86.0
+,,,Queen,Another One Bites The Dust - Remastered 2011,The Game (2011 Remaster),1980-06-27,83.0,53739088.0,"['classic rock', 'rock', 'glam rock']",86.0
+,,,Queen,We Will Rock You - Remastered 2011,News Of The World (2011 Remaster),1977-10-28,80.0,53739088.0,"['classic rock', 'rock', 'glam rock']",86.0
+,,,Parampara Tandon,"Raanjhan (From ""Do Patti"")","Raanjhan (From ""Do Patti"")",2024-10-04,87.0,2749461.0,"['bhajan', 'devotional', 'hindi pop', 'bollywood']",76.0
+,,,Parampara Tandon,Maiyya,Do Patti,2024-10-24,79.0,2749461.0,"['bhajan', 'devotional', 'hindi pop', 'bollywood']",76.0
+,,,Parampara Tandon,"Mere Sohneya (From ""Kabir Singh"")","Mere Sohneya (From ""Kabir Singh"")",2019-06-06,76.0,2749461.0,"['bhajan', 'devotional', 'hindi pop', 'bollywood']",76.0
+,,,Parampara Tandon,Malang Sajna,Malang Sajna,2022-12-19,76.0,2749461.0,"['bhajan', 'devotional', 'hindi pop', 'bollywood']",76.0
+,,,Parampara Tandon,"Ram Siya Ram (From ""Adipurush"")","Ram Siya Ram (From ""Adipurush"")",2023-05-29,68.0,2749461.0,"['bhajan', 'devotional', 'hindi pop', 'bollywood']",76.0
+,,,Don Omar & Lucenzo,Danza Kuduro - Cover,TOP SONGS 2024 - POPS BEST HITS,2024-11-15,5.0,137.0,[],1.0
+,,,Stephen Sanchez,Until I Found You,Easy On My Eyes,2022-08-19,79.0,1755101.0,[],74.0
+,,,Stephen Sanchez,Until I Found You (with Em Beihold) - Em Beihold Version,Angel Face (Club Deluxe),2024-04-26,76.0,1755101.0,[],74.0
+,,,Stephen Sanchez,High,Angel Face,2023-09-22,72.0,1755101.0,[],74.0
+,,,Stephen Sanchez,Evangeline,Angel Face,2023-09-22,64.0,1755101.0,[],74.0
+,,,Stephen Sanchez,Be More,Angel Face,2023-09-22,63.0,1755101.0,[],74.0
