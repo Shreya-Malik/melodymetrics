@@ -1,85 +1,82 @@
-import pandas as pd
 import spotipy
-from spotipy.oauth2 import SpotifyClientCredentials
+from spotipy.oauth2 import SpotifyOAuth
+import time
 from dotenv import load_dotenv
 import os
-import time
 
 # Load environment variables
 load_dotenv()
 
-# Spotify API Credentials
-SPOTIFY_CLIENT_ID = os.getenv('SPOTIFY_CLIENT_ID')
-SPOTIFY_CLIENT_SECRET = os.getenv('SPOTIFY_CLIENT_SECRET')
+# Credentials from .env
+CLIENT_ID = os.getenv('SPOTIFY_CLIENT_ID')
+CLIENT_SECRET = os.getenv('SPOTIFY_CLIENT_SECRET')
+REDIRECT_URI = os.getenv('SPOTIFY_REDIRECT_URI')
 
-# Setup Spotify API client
-sp = spotipy.Spotify(
-    auth_manager=SpotifyClientCredentials(
-        client_id=SPOTIFY_CLIENT_ID,
-        client_secret=SPOTIFY_CLIENT_SECRET
-    ),
-    requests_timeout=10
-)
+# Set up Spotify client
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
+    client_id=CLIENT_ID,
+    client_secret=CLIENT_SECRET,
+    redirect_uri=REDIRECT_URI,
+    scope='user-library-read',
+    cache_path=".spotipyoauthcache"
+))
 
-def fetch_top_tracks(artist_name, max_tracks=5):
-    """Fetch top tracks for a given artist."""
-    try:
-        result = sp.search(q=f"artist:{artist_name}", type='artist', limit=1)
-        if not result['artists']['items']:
-            print(f"No artist found for {artist_name}")
-            return []
+def fetch_song_metadata(songs):
+    results = []
 
-        artist = result['artists']['items'][0]
-        artist_id = artist['id']
-        artist_followers = artist['followers']['total']
-        artist_genres = artist['genres']
-        artist_popularity = artist['popularity']
+    for title, artist in songs:
+        # First attempt: structured search
+        query = f'track:"{title}" artist:"{artist}"'
+        search = sp.search(q=query, type='track', limit=1)
 
-        top_tracks = sp.artist_top_tracks(artist_id)
+        if search['tracks']['items']:
+            track = search['tracks']['items'][0]
+        else:
+            # Retry: loose search with just title if no result
+            query_retry = f'{title}'
+            search = sp.search(q=query_retry, type='track', limit=1)
+            if search['tracks']['items']:
+                track = search['tracks']['items'][0]
+            else:
+                print(f"Could not find metadata for {title} by {artist}")
+                continue  # Skip this song if still no match
 
-        tracks_data = []
-        for track in top_tracks['tracks'][:max_tracks]:
-            track_info = {
-                'input_artist': artist_name,
-                'track_title': track['name'],
-                'album': track['album']['name'],
-                'release_date': track['album']['release_date'],
-                'track_popularity': track['popularity'],
-                'artist_followers': artist_followers,
-                'artist_genres': artist_genres,
-                'artist_popularity': artist_popularity
+        try:
+            track_id = track['id']
+            artist_id = track['artists'][0]['id']
+            artist_info = sp.artist(artist_id)
+
+            song_data = {
+                "input_title": title,
+                "input_artist": artist,
+                "spotify_title": track['name'],
+                "spotify_artist": track['artists'][0]['name'],
+                "release_date": track['album']['release_date'],
+                "album_name": track['album']['name'],
+                "track_popularity": track['popularity'],
+                "artist_genres": artist_info.get('genres', []),
+                "artist_followers": artist_info.get('followers', {}).get('total', 0),
+                "artist_popularity": artist_info.get('popularity', 0)
             }
-            tracks_data.append(track_info)
+            results.append(song_data)
 
-        return tracks_data
+        except Exception as e:
+            print(f"Error processing {title} by {artist}: {e}")
+            continue
 
-    except Exception as e:
-        print(f"Error fetching tracks for {artist_name}: {e}")
-        return []
+        time.sleep(0.4)  # Sleep slightly longer on API
+
+    return results
 
 if __name__ == "__main__":
-    try:
-        # Load artist names from Billboard dataset
-        billboard_df = pd.read_csv("./data/billboard_hot_100.csv")
+    sample_songs = [
+        ("Shape of You", "Ed Sheeran"),
+        ("Flowers", "Miley Cyrus"),
+        ("Blinding Lights", "The Weeknd")
+    ]
 
-        artists = billboard_df['Artist'].unique()
-        print(f"Found {len(artists)} unique artists to fetch from Spotify.")
-
-        all_tracks = []
-
-        for artist in artists:
-            print(f"Fetching top tracks for: {artist}")
-            artist_tracks = fetch_top_tracks(artist, max_tracks=5)
-            all_tracks.extend(artist_tracks)
-            time.sleep(0.3)  # Avoid rate limits
-
-        if all_tracks:
-            final_df = pd.DataFrame(all_tracks)
-            os.makedirs("./data", exist_ok=True)
-            final_df.to_csv("./data/spotify_enriched_dataset.csv", index=False)
-            print(f"\nSaved {len(final_df)} Spotify enriched tracks to './data/spotify_enriched_dataset.csv'.")
-        else:
-            print("No tracks fetched from Spotify.")
-
-    except Exception as e:
-        print(f"Critical error: {e}")
+    metadata = fetch_song_metadata(sample_songs)
+    for song in metadata:
+        print("\nSong Metadata:")
+        for key, value in song.items():
+            print(f"{key}: {value}")
